@@ -1,0 +1,1000 @@
+"Harvard University"	"USA"	100.0	2015
+"Stanford University"	"USA"	98.66	2015
+"Massachusetts Institute of Technology"	"USA"	97.54	2015
+"University of Cambridge"	"United Kingdom"	96.81	2015
+"University of Oxford"	"United Kingdom"	96.46	2015
+"Columbia University"	"USA"	96.14	2015
+"University of California, Berkeley"	"USA"	92.25	2015
+"University of Chicago"	"USA"	90.7	2015
+"Princeton University"	"USA"	89.42	2015
+"Cornell University"	"USA"	86.79	2015
+"Yale University"	"USA"	86.61	2015
+"California Institute of Technology"	"USA"	84.4	2015
+"University of Tokyo"	"Japan"	78.23	2015
+"University of Pennsylvania"	"USA"	77.6	2015
+"University of California, Los Angeles"	"USA"	76.91	2015
+"Johns Hopkins University"	"USA"	71.6	2015
+"Kyoto University"	"Japan"	68.6	2015
+"New York University"	"USA"	68.39	2015
+"University of Michigan, Ann Arbor"	"USA"	68.36	2015
+"Swiss Federal Institute of Technology in Zurich"	"Switzerland"	66.93	2015
+"University of California, San Diego"	"USA"	66.59	2015
+"Northwestern University"	"USA"	66.56	2015
+"Hebrew University of Jerusalem"	"Israel"	65.71	2015
+"Seoul National University"	"South Korea"	64.82	2015
+"University of Wisconsin–Madison"	"USA"	64.51	2015
+"University of California, San Francisco"	"USA"	63.69	2015
+"University College London"	"United Kingdom"	62.27	2015
+"Duke University"	"USA"	61.55	2015
+"Rockefeller University"	"USA"	61.28	2015
+"University of Texas at Austin"	"USA"	61.14	2015
+"University of Washington - Seattle"	"USA"	60.61	2015
+"University of Toronto"	"Canada"	60.04	2015
+"University of Illinois at Urbana–Champaign"	"USA"	59.94	2015
+"Keio University"	"Japan"	59.84	2015
+"Imperial College London"	"United Kingdom"	59.61	2015
+"École Polytechnique"	"France"	59.2	2015
+"École normale supérieure - Paris"	"France"	58.8	2015
+"Waseda University"	"Japan"	58.17	2015
+"Weizmann Institute of Science"	"Israel"	57.17	2015
+"University of North Carolina at Chapel Hill"	"USA"	57.09	2015
+"University of Virginia"	"USA"	56.73	2015
+"McGill University"	"Canada"	56.49	2015
+"Purdue University, West Lafayette"	"USA"	56.39	2015
+"Dartmouth College"	"USA"	56.35	2015
+"Osaka University"	"Japan"	56.03	2015
+"University of Pittsburgh - Pittsburgh Campus"	"USA"	55.63	2015
+"Pennsylvania State University, University Park"	"USA"	55.54	2015
+"University of Minnesota, Twin Cities"	"USA"	55.51	2015
+"Ohio State University, Columbus"	"USA"	55.39	2015
+"Rutgers University-New Brunswick"	"USA"	55.23	2015
+"University of Southern California"	"USA"	55.12	2015
+"Washington University in St. Louis"	"USA"	55.03	2015
+"University of California, Davis"	"USA"	54.85	2015
+"University of Colorado Boulder"	"USA"	54.62	2015
+"University of Edinburgh"	"United Kingdom"	54.39	2015
+"Peking University"	"China"	54.26	2015
+"National Taiwan University"	"Taiwan"	54.23	2015
+"University of Paris-Sud"	"France"	54.21	2015
+"Lomonosov Moscow State University"	"Russia"	54.19	2015
+"University of Florida"	"USA"	54.18	2015
+"Carnegie Mellon University"	"USA"	54.0	2015
+"University of British Columbia"	"Canada"	53.92	2015
+"Pierre-and-Marie-Curie University"	"France"	53.79	2015
+"University of California, Santa Barbara"	"USA"	53.63	2015
+"National University of Singapore"	"Singapore"	53.44	2015
+"Boston University"	"USA"	53.43	2015
+"University of Manchester"	"United Kingdom"	53.38	2015
+"University of Arizona"	"USA"	53.26	2015
+"Vanderbilt University"	"USA"	53.05	2015
+"University of Utah"	"USA"	52.89	2015
+"Karolinska Institute"	"Sweden"	52.79	2015
+"University of Maryland, College Park"	"USA"	52.72	2015
+"Tohoku University"	"Japan"	52.57	2015
+"University of Copenhagen"	"Denmark"	52.51	2015
+"University of Texas Southwestern Medical Center"	"USA"	52.5	2015
+"Ruprecht Karl University of Heidelberg"	"Germany"	52.32	2015
+"University of Notre Dame"	"USA"	52.27	2015
+"Tsinghua University"	"China"	52.21	2015
+"Ludwig Maximilian University of Munich"	"Germany"	52.16	2015
+"Georgia Institute of Technology"	"USA"	52.08	2015
+"University of Rochester"	"USA"	52.03	2015
+"Katholieke Universiteit Leuven"	"Belgium"	52.03	2015
+"Brown University"	"USA"	52.01	2015
+"Emory University"	"USA"	51.85	2015
+"Erasmus University Rotterdam"	"Netherlands"	51.78	2015
+"Tel Aviv University"	"Israel"	51.75	2015
+"Utrecht University"	"Netherlands"	51.74	2015
+"University of Sydney"	"Australia"	51.61	2015
+"University of California, Irvine"	"USA"	51.51	2015
+"University of Texas MD Anderson Cancer Center"	"USA"	51.51	2015
+"Swiss Federal Institute of Technology in Lausanne"	"Switzerland"	51.47	2015
+"University of Geneva"	"Switzerland"	51.46	2015
+"University of Melbourne"	"Australia"	51.34	2015
+"King's College London"	"United Kingdom"	51.31	2015
+"Tufts University"	"USA"	51.22	2015
+"University of Zurich"	"Switzerland"	51.14	2015
+"Arizona State University"	"USA"	51.13	2015
+"Yonsei University"	"South Korea"	51.02	2015
+"University of Oslo"	"Norway"	50.81	2015
+"Kyushu University"	"Japan"	50.6	2015
+"Technical University of Munich"	"Germany"	50.58	2015
+"Texas A&M University, College Station"	"USA"	50.43	2015
+"University of Queensland"	"Australia"	50.4	2015
+"Mines ParisTech"	"France"	50.34	2015
+"Case Western Reserve University"	"USA"	50.28	2015
+"Indiana University - Bloomington"	"USA"	50.26	2015
+"University of Alberta"	"Canada"	50.25	2015
+"Leiden University"	"Netherlands"	50.17	2015
+"Tokyo Institute of Technology"	"Japan"	50.13	2015
+"University of Groningen"	"Netherlands"	50.1	2015
+"University of Helsinki"	"Finland"	50.04	2015
+"Sapienza University of Rome"	"Italy"	49.97	2015
+"Georgetown University"	"USA"	49.92	2015
+"University of Amsterdam"	"Netherlands"	49.83	2015
+"Korea University"	"South Korea"	49.79	2015
+"University of Barcelona"	"Spain"	49.79	2015
+"Lund University"	"Sweden"	49.75	2015
+"Michigan State University"	"USA"	49.74	2015
+"Ghent University"	"Belgium"	49.73	2015
+"Rice University"	"USA"	49.73	2015
+"Baylor College of Medicine"	"USA"	49.7	2015
+"Aarhus University"	"Denmark"	49.65	2015
+"University of Bristol"	"United Kingdom"	49.59	2015
+"Uppsala University"	"Sweden"	49.57	2015
+"Nagoya University"	"Japan"	49.57	2015
+"Royal Institute of Technology"	"Sweden"	49.54	2015
+"University of Colorado Denver"	"USA"	49.48	2015
+"University of Glasgow"	"United Kingdom"	49.45	2015
+"VU University Amsterdam"	"Netherlands"	49.44	2015
+"University of New South Wales"	"Australia"	49.33	2015
+"Paris Diderot University - Paris 7"	"France"	49.33	2015
+"University of São Paulo"	"Brazil"	49.31	2015
+"Western University (The University of Western Ontario)"	"Canada"	49.31	2015
+"Radboud University Nijmegen"	"Netherlands"	49.3	2015
+"Nanyang Technological University"	"Singapore"	49.29	2015
+"Technion – Israel Institute of Technology"	"Israel"	49.12	2015
+"University of Miami"	"USA"	49.09	2015
+"Stony Brook University"	"USA"	49.09	2015
+"University of Texas at Dallas"	"USA"	49.05	2015
+"University of Nottingham"	"United Kingdom"	49.02	2015
+"University of Iowa"	"USA"	49.01	2015
+"Southern Methodist University"	"USA"	48.99	2015
+"Icahn School of Medicine at Mount Sinai"	"USA"	48.96	2015
+"Korea Advanced Institute of Science and Technology (KAIST)"	"South Korea"	48.95	2015
+"Monash University"	"Australia"	48.91	2015
+"University of Alabama at Birmingham"	"USA"	48.79	2015
+"Free University of Berlin"	"Germany"	48.78	2015
+"University of Southampton"	"United Kingdom"	48.77	2015
+"University of the Witwatersrand"	"South Africa"	48.75	2015
+"McMaster University"	"Canada"	48.74	2015
+"University of Montreal"	"Canada"	48.72	2015
+"University of Birmingham"	"United Kingdom"	48.7	2015
+"Humboldt University of Berlin"	"Germany"	48.64	2015
+"University of California, Santa Cruz"	"USA"	48.59	2015
+"Albert Ludwig University of Freiburg"	"Germany"	48.57	2015
+"University of Tübingen"	"Germany"	48.56	2015
+"University of Cincinnati"	"USA"	48.56	2015
+"University of Bonn"	"Germany"	48.54	2015
+"Wake Forest University"	"USA"	48.52	2015
+"University of Basel"	"Switzerland"	48.48	2015
+"University of Leeds"	"United Kingdom"	48.41	2015
+"University of Hamburg"	"Germany"	48.31	2015
+"Université libre de Bruxelles"	"Belgium"	48.28	2015
+"Indiana University-Purdue University Indianapolis"	"USA"	48.28	2015
+"Pohang University of Science and Technology"	"South Korea"	48.24	2015
+"Oregon Health & Science University"	"USA"	48.23	2015
+"University of Calgary"	"Canada"	48.23	2015
+"Stockholm University"	"Sweden"	48.23	2015
+"University of Padua"	"Italy"	48.17	2015
+"University of the Kong"	"Hong Kong"	48.15	2015
+"Yeshiva University"	"USA"	48.11	2015
+"University of Milan"	"Italy"	48.07	2015
+"University of Sheffield"	"United Kingdom"	48.07	2015
+"Technical University of Denmark"	"Denmark"	48.06	2015
+"University of Maryland, Baltimore"	"USA"	48.05	2015
+"Goethe University Frankfurt"	"Germany"	48.01	2015
+"University of Göttingen"	"Germany"	47.98	2015
+"Hokkaido University"	"Japan"	47.97	2015
+"Australian National University"	"Australia"	47.97	2015
+"Shanghai Jiao Tong University"	"China"	47.96	2015
+"University of New Mexico"	"USA"	47.95	2015
+"University of Strasbourg"	"France"	47.89	2015
+"University of Massachusetts Medical School"	"USA"	47.85	2015
+"University of Houston"	"USA"	47.83	2015
+"Trinity College, Dublin"	"Ireland"	47.73	2015
+"University of Lausanne"	"Switzerland"	47.73	2015
+"Iowa State University"	"USA"	47.71	2015
+"Joseph Fourier University"	"France"	47.71	2015
+"Wayne State University"	"USA"	47.67	2015
+"University of South Florida - Tampa"	"USA"	47.66	2015
+"Zhejiang University"	"China"	47.66	2015
+"Hanyang University"	"South Korea"	47.6	2015
+"University of Ottawa"	"Canada"	47.6	2015
+"University of Missouri–Columbia"	"USA"	47.59	2015
+"Fudan University"	"China"	47.56	2015
+"University of Kansas"	"USA"	47.52	2015
+"University of Cologne"	"Germany"	47.52	2015
+"University of Georgia"	"USA"	47.5	2015
+"University of Liverpool"	"United Kingdom"	47.49	2015
+"University of Bern"	"Switzerland"	47.49	2015
+"Cardiff University"	"United Kingdom"	47.46	2015
+"George Washington University"	"USA"	47.46	2015
+"University of Illinois at Chicago"	"USA"	47.39	2015
+"University of Erlangen-Nuremberg"	"Germany"	47.36	2015
+"University of Münster"	"Germany"	47.34	2015
+"Aix-Marseille University"	"France"	47.31	2015
+"Claude Bernard University Lyon 1"	"France"	47.31	2015
+"University of Bologna"	"Italy"	47.28	2015
+"Queen Mary University of London"	"United Kingdom"	47.25	2015
+"Dresden University of Technology"	"Germany"	47.25	2015
+"Sungkyunkwan University"	"South Korea"	47.19	2015
+"Newcastle University"	"United Kingdom"	47.17	2015
+"Karlsruhe Institute of Technology"	"Germany"	47.15	2015
+"University of California, Riverside"	"USA"	47.13	2015
+"University of Kiel"	"Germany"	47.11	2015
+"University of Western Australia"	"Australia"	47.1	2015
+"Paris Descartes University"	"France"	47.06	2015
+"University of Connecticut"	"USA"	47.06	2015
+"University of Massachusetts Amherst"	"USA"	47.05	2015
+"Chinese University of Hong Kong"	"Hong Kong"	47.05	2015
+"University of Turin"	"Italy"	47.04	2015
+"University of Manitoba"	"Canada"	47.04	2015
+"University of Vienna"	"Austria"	47.03	2015
+"University of Montpellier"	"France"	47.0	2015
+"Maastricht University"	"Netherlands"	47.0	2015
+"National Cheng Kung University"	"Taiwan"	46.97	2015
+"University of Tennessee, Knoxville"	"USA"	46.96	2015
+"Complutense University of Madrid"	"Spain"	46.96	2015
+"Laval University"	"Canada"	46.95	2015
+"RWTH Aachen University"	"Germany"	46.9	2015
+"Université catholique de Louvain"	"Belgium"	46.89	2015
+"North Carolina State University"	"USA"	46.89	2015
+"Johannes Gutenberg University of Mainz"	"Germany"	46.88	2015
+"University of Texas Health Science Center at San Antonio"	"USA"	46.88	2015
+"Julius-Maximilian's University of Würzburg"	"Germany"	46.85	2015
+"Paul Sabatier University - Toulouse III"	"France"	46.81	2015
+"University of Gothenburg"	"Sweden"	46.79	2015
+"University College Dublin"	"Ireland"	46.79	2015
+"University of Science and Technology of China"	"China"	46.73	2015
+"University of Leicester"	"United Kingdom"	46.72	2015
+"Autonomous University of Barcelona"	"Spain"	46.72	2015
+"University of Dundee"	"United Kingdom"	46.68	2015
+"Norwegian University of Science and Technology"	"Norway"	46.67	2015
+"Nanjing University"	"China"	46.61	2015
+"Okayama University"	"Japan"	46.59	2015
+"London School of Hygiene & Tropical Medicine"	"United Kingdom"	46.59	2015
+"University of Florence"	"Italy"	46.58	2015
+"University of Cape Town"	"South Africa"	46.58	2015
+"University of Texas Health Science Center at Houston"	"USA"	46.56	2015
+"Moscow Institute of Physics and Technology"	"Russia"	46.55	2015
+"University of Düsseldorf"	"Germany"	46.54	2015
+"Florida State University"	"USA"	46.53	2015
+"University of Sussex"	"United Kingdom"	46.49	2015
+"Thomas Jefferson University"	"USA"	46.47	2015
+"Delft University of Technology"	"Netherlands"	46.46	2015
+"Virginia Polytechnic Institute and State University"	"USA"	46.46	2015
+"University of Lisbon"	"Portugal"	46.43	2015
+"Drexel University"	"USA"	46.43	2015
+"Virginia Commonwealth University"	"USA"	46.43	2015
+"Oregon State University"	"USA"	46.42	2015
+"Durham University"	"United Kingdom"	46.42	2015
+"University of Tsukuba"	"Japan"	46.41	2015
+"University of Reading"	"United Kingdom"	46.4	2015
+"Lehigh University"	"USA"	46.4	2015
+"Medical University of Vienna"	"Austria"	46.39	2015
+"University of Auckland"	"New Zealand"	46.38	2015
+"University of Kentucky"	"USA"	46.37	2015
+"University of Naples Federico II"	"Italy"	46.36	2015
+"University of Waterloo"	"Canada"	46.34	2015
+"Charles University in Prague"	"Czech Republic"	46.32	2015
+"Colorado State University - Fort Collins"	"USA"	46.32	2015
+"Tulane University"	"USA"	46.31	2015
+"University at Buffalo, The State University of New York"	"USA"	46.3	2015
+"Brandeis University"	"USA"	46.29	2015
+"Northeastern University"	"USA"	46.29	2015
+"Wageningen University and Research Centre"	"Netherlands"	46.26	2015
+"Sun Yat-sen University"	"China"	46.25	2015
+"University of Ulm"	"Germany"	46.24	2015
+"London School of Economics"	"United Kingdom"	46.22	2015
+"Vrije Universiteit Brussel"	"Belgium"	46.21	2015
+"University of Delaware"	"USA"	46.21	2015
+"Rensselaer Polytechnic Institute"	"USA"	46.19	2015
+"University of Bergen"	"Norway"	46.18	2015
+"Queen's University"	"Canada"	46.18	2015
+"University of Aberdeen"	"United Kingdom"	46.17	2015
+"Dalhousie University"	"Canada"	46.17	2015
+"Umeå University"	"Sweden"	46.14	2015
+"University of Duisburg-Essen"	"Germany"	46.13	2015
+"City College of New York"	"USA"	46.12	2015
+"Hiroshima University"	"Japan"	46.12	2015
+"University of Texas at San Antonio"	"USA"	46.1	2015
+"Hannover Medical School"	"Germany"	46.07	2015
+"University of Warwick"	"United Kingdom"	46.05	2015
+"University of Valencia"	"Spain"	46.03	2015
+"University of Pisa"	"Italy"	46.03	2015
+"Ruhr University Bochum"	"Germany"	46.0	2015
+"Medical College of Wisconsin"	"USA"	45.97	2015
+"University of Louisville"	"USA"	45.97	2015
+"University of Bordeaux"	"France"	45.96	2015
+"University of South Carolina - Columbia"	"USA"	45.95	2015
+"National and Kapodistrian University of Athens"	"Greece"	45.94	2015
+"Leipzig University"	"Germany"	45.94	2015
+"Medical University of South Carolina"	"USA"	45.94	2015
+"Autonomous University of Madrid"	"Spain"	45.92	2015
+"Dalian University of Technology"	"China"	45.92	2015
+"Stellenbosch University"	"South Africa"	45.92	2015
+"Kyungpook National University"	"South Korea"	45.92	2015
+"University of Porto"	"Portugal"	45.91	2015
+"University of St Andrews"	"United Kingdom"	45.89	2015
+"Gwangju Institute of Science and Technology"	"South Korea"	45.88	2015
+"Chulalongkorn University"	"Thailand"	45.86	2015
+"University of Antwerp"	"Belgium"	45.84	2015
+"Xiamen University"	"China"	45.83	2015
+"University of Nebraska–Lincoln"	"USA"	45.8	2015
+"Nankai University"	"China"	45.8	2015
+"University of Stuttgart"	"Germany"	45.79	2015
+"University of Rome Tor Vergata"	"Italy"	45.79	2015
+"University of Regensburg"	"Germany"	45.79	2015
+"Hong Kong University of Science and Technology"	"Hong Kong"	45.77	2015
+"Kobe University"	"Japan"	45.74	2015
+"University of Liège"	"Belgium"	45.73	2015
+"Federal University of Rio de Janeiro"	"Brazil"	45.72	2015
+"Rush University"	"USA"	45.71	2015
+"University of Vermont"	"USA"	45.7	2015
+"University of York"	"United Kingdom"	45.69	2015
+"Boston College"	"USA"	45.65	2015
+"University of Pavia"	"Italy"	45.64	2015
+"University of Jena"	"Germany"	45.64	2015
+"Vita-Salute San Raffaele University"	"Italy"	45.61	2015
+"University of Genoa"	"Italy"	45.61	2015
+"Tianjin University"	"China"	45.61	2015
+"Louisiana State University - Baton Rouge"	"USA"	45.61	2015
+"University of Exeter"	"United Kingdom"	45.59	2015
+"National Autonomous University of Mexico"	"Mexico"	45.58	2015
+"University of Adelaide"	"Australia"	45.58	2015
+"University of East Anglia"	"United Kingdom"	45.58	2015
+"York University"	"Canada"	45.56	2015
+"University of Navarra"	"Spain"	45.56	2015
+"University of Oregon"	"USA"	45.55	2015
+"St George's, University of London"	"United Kingdom"	45.55	2015
+"Indian Institute of Technology Delhi"	"India"	45.54	2015
+"University of Trieste"	"Italy"	45.54	2015
+"Queen's University Belfast"	"United Kingdom"	45.53	2015
+"University of Perugia"	"Italy"	45.53	2015
+"Technical University of Berlin"	"Germany"	45.52	2015
+"University of Marburg"	"Germany"	45.51	2015
+"University of Innsbruck"	"Austria"	45.51	2015
+"Eindhoven University of Technology"	"Netherlands"	45.51	2015
+"Ben-Gurion University of the Negev"	"Israel"	45.49	2015
+"University of Oklahoma - Norman Campus"	"USA"	45.49	2015
+"Wesleyan University"	"USA"	45.48	2015
+"University of Victoria"	"Canada"	45.48	2015
+"Kansas State University"	"USA"	45.47	2015
+"Hong Kong Polytechnic University"	"Hong Kong"	45.47	2015
+"Linköping University"	"Sweden"	45.47	2015
+"University of Southern Denmark"	"Denmark"	45.46	2015
+"University of Otago"	"New Zealand"	45.44	2015
+"Justus Liebig University Giessen"	"Germany"	45.43	2015
+"University of New Hampshire"	"USA"	45.42	2015
+"College of William and Mary"	"USA"	45.42	2015
+"San Diego State University"	"USA"	45.41	2015
+"Simon Fraser University"	"Canada"	45.4	2015
+"University of Santiago de Compostela"	"Spain"	45.4	2015
+"Saint Louis University"	"USA"	45.39	2015
+"Colorado School of Mines"	"USA"	45.39	2015
+"University of Eastern Finland"	"Finland"	45.37	2015
+"University of Buenos Aires"	"Argentina"	45.37	2015
+"University of Guelph"	"Canada"	45.36	2015
+"University of Ferrara"	"Italy"	45.36	2015
+"Polytechnic University of Catalonia"	"Spain"	45.36	2015
+"Versailles Saint-Quentin-en-Yvelines University"	"France"	45.36	2015
+"Saarland University"	"Germany"	45.33	2015
+"City University of Hong Kong"	"Hong Kong"	45.33	2015
+"Darmstadt University of Technology"	"Germany"	45.32	2015
+"Pompeu Fabra University"	"Spain"	45.31	2015
+"Pontifical Catholic University of Chile"	"Chile"	45.31	2015
+"University of Bari Aldo Moro"	"Italy"	45.31	2015
+"University of Texas Medical Branch at Galveston"	"USA"	45.3	2015
+"University of Delhi"	"India"	45.3	2015
+"Washington State University, Pullman"	"USA"	45.29	2015
+"Temple University"	"USA"	45.29	2015
+"University of Milan - Bicocca"	"Italy"	45.28	2015
+"University of Turku"	"Finland"	45.27	2015
+"Chonnam National University"	"South Korea"	45.27	2015
+"University of Lorraine"	"France"	45.25	2015
+"National Chiao Tung University"	"Taiwan"	45.24	2015
+"Catholic University of the Sacred Heart"	"Italy"	45.22	2015
+"University at Albany, SUNY"	"USA"	45.22	2015
+"Xi'an Jiaotong University"	"China"	45.21	2015
+"Ewha Womans University"	"South Korea"	45.2	2015
+"Jilin University"	"China"	45.2	2015
+"Tokyo Medical and Dental University"	"Japan"	45.2	2015
+"Scuola Normale Superiore di Pisa"	"Italy"	45.2	2015
+"University of Central Florida"	"USA"	45.18	2015
+"Innsbruck Medical University"	"Austria"	45.18	2015
+"Beijing Normal University"	"China"	45.17	2015
+"Polytechnic University of Milan"	"Italy"	45.17	2015
+"University of Seville"	"Spain"	45.17	2015
+"University of Nebraska Medical Center"	"USA"	45.16	2015
+"Huazhong University of Science and Technology"	"China"	45.16	2015
+"Kyung Hee University"	"South Korea"	45.16	2015
+"Chalmers University of Technology"	"Sweden"	45.16	2015
+"Brigham Young University"	"USA"	45.15	2015
+"University of Campinas"	"Brazil"	45.14	2015
+"University of Bath"	"United Kingdom"	45.14	2015
+"Saint Petersburg State University"	"Russia"	45.14	2015
+"National Tsing Hua University"	"Taiwan"	45.14	2015
+"University of Twente"	"Netherlands"	45.14	2015
+"University of Alabama - Tuscaloosa"	"USA"	45.14	2015
+"Harbin Institute of Technology"	"China"	45.14	2015
+"University of Verona"	"Italy"	45.13	2015
+"Oklahoma State University–Stillwater"	"USA"	45.13	2015
+"Shandong University"	"China"	45.13	2015
+"George Mason University"	"USA"	45.13	2015
+"Wuhan University"	"China"	45.13	2015
+"Swedish University of Agricultural Sciences"	"Sweden"	45.12	2015
+"Concordia University"	"Canada"	45.12	2015
+"Chiba University"	"Japan"	45.11	2015
+"Kumamoto University"	"Japan"	45.11	2015
+"Tongji University"	"China"	45.1	2015
+"Aalto University"	"Finland"	45.1	2015
+"Chonbuk National University"	"South Korea"	45.09	2015
+"Peking Union Medical College"	"China"	45.09	2015
+"Georgia Regents University"	"USA"	45.09	2015
+"University of Chile"	"Chile"	45.08	2015
+"Lancaster University"	"United Kingdom"	45.08	2015
+"Vienna University of Technology"	"Austria"	45.08	2015
+"University of Denver"	"USA"	45.08	2015
+"University of Arkansas for Medical Sciences"	"USA"	45.08	2015
+"Grenoble Institute of Technology"	"France"	45.06	2015
+"University of Granada"	"Spain"	45.06	2015
+"University of Modena and Reggio Emilia"	"Italy"	45.04	2015
+"Ajou University"	"South Korea"	45.04	2015
+"Gyeongsang National University"	"South Korea"	45.04	2015
+"Technical University of Madrid"	"Spain"	45.03	2015
+"University College Cork"	"Ireland"	45.03	2015
+"Loyola University Chicago"	"USA"	45.03	2015
+"Central South University"	"China"	45.02	2015
+"South China University of Technology"	"China"	45.02	2015
+"Polytechnic University of Valencia"	"Spain"	45.02	2015
+"West Virginia University"	"USA"	45.02	2015
+"University of Tampere"	"Finland"	45.02	2015
+"Southeast University"	"China"	45.01	2015
+"Miami University"	"USA"	45.0	2015
+"University of Dayton"	"USA"	44.99	2015
+"University of Siena"	"Italy"	44.98	2015
+"University of Oulu"	"Finland"	44.96	2015
+"Indian Institute of Science"	"India"	44.96	2015
+"Macquarie University"	"Australia"	44.96	2015
+"University of Rostock"	"Germany"	44.96	2015
+"Jagiellonian University"	"Poland"	44.94	2015
+"Pusan National University"	"South Korea"	44.94	2015
+"University of Strathclyde"	"United Kingdom"	44.94	2015
+"University of Nevada, Reno"	"USA"	44.93	2015
+"University of Saskatchewan"	"Canada"	44.92	2015
+"University of Parma"	"Italy"	44.92	2015
+"Kanazawa University"	"Japan"	44.92	2015
+"Eötvös Loránd University"	"Hungary"	44.92	2015
+"Aristotle University of Thessaloniki"	"Greece"	44.92	2015
+"Ohio University"	"USA"	44.91	2015
+"University of Iceland"	"Iceland"	44.91	2015
+"University of Warsaw"	"Poland"	44.91	2015
+"Syracuse University"	"USA"	44.91	2015
+"Bielefeld University"	"Germany"	44.91	2015
+"Juntendo University"	"Japan"	44.9	2015
+"University of Wyoming"	"USA"	44.89	2015
+"University of Wollongong"	"Australia"	44.88	2015
+"Niigata University"	"Japan"	44.88	2015
+"Texas Tech University (TTU)"	"USA"	44.87	2015
+"Middle East Technical University"	"Turkey"	44.87	2015
+"École normale supérieure de Lyon"	"France"	44.87	2015
+"Brunel University"	"United Kingdom"	44.86	2015
+"Nihon University"	"Japan"	44.86	2015
+"Osaka City University"	"Japan"	44.86	2015
+"University of Rennes 1"	"France"	44.86	2015
+"University of Oklahoma Health Sciences Center"	"USA"	44.86	2015
+"East China University of Science and Technology"	"China"	44.86	2015
+"University of KwaZulu-Natal"	"South Africa"	44.85	2015
+"Sichuan University"	"China"	44.85	2015
+"Illinois Institute of Technology"	"USA"	44.85	2015
+"Tokyo University of Science"	"Japan"	44.84	2015
+"University of Science, Malaysia"	"Malaysia"	44.84	2015
+"Clemson University"	"USA"	44.83	2015
+"University of Zaragoza"	"Spain"	44.83	2015
+"University of the Basque Country"	"Spain"	44.83	2015
+"Nagasaki University"	"Japan"	44.82	2015
+"Technical University of Dortmund"	"Germany"	44.82	2015
+"University of Hawaii at Manoa"	"USA"	44.82	2015
+"University of Nebraska Omaha"	"USA"	44.81	2015
+"University of Konstanz"	"Germany"	44.81	2015
+"Panjab University"	"India"	44.8	2015
+"University of Hanover"	"Germany"	44.8	2015
+"University of Maryland, Baltimore County"	"USA"	44.8	2015
+"University of Newcastle"	"Australia"	44.79	2015
+"University of Ulsan"	"South Korea"	44.79	2015
+"Renmin University of China"	"China"	44.79	2015
+"Martin Luther University of Halle-Wittenberg"	"Germany"	44.79	2015
+"University of Malaya"	"Malaysia"	44.79	2015
+"University of Savoy"	"France"	44.79	2015
+"University of Udine"	"Italy"	44.78	2015
+"Tokyo Metropolitan University"	"Japan"	44.78	2015
+"University of Sherbrooke"	"Canada"	44.77	2015
+"University of Brescia"	"Italy"	44.77	2015
+"University of Ljubljana"	"Slovenia"	44.77	2015
+"University of Nice Sophia Antipolis"	"France"	44.75	2015
+"University of Hull"	"United Kingdom"	44.75	2015
+"University of Coimbra"	"Portugal"	44.75	2015
+"Creighton University"	"USA"	44.75	2015
+"Georgia State University"	"USA"	44.74	2015
+"University of Wisconsin–Milwaukee"	"USA"	44.74	2015
+"Catholic University of Korea"	"South Korea"	44.74	2015
+"University of Tokushima"	"Japan"	44.73	2015
+"Yokohama City University"	"Japan"	44.73	2015
+"Lanzhou University"	"China"	44.72	2015
+"University of Crete"	"Greece"	44.72	2015
+"SUNY Downstate Medical Center"	"USA"	44.72	2015
+"University of Potsdam"	"Germany"	44.72	2015
+"Yokohama National University"	"Japan"	44.72	2015
+"New Mexico State University"	"USA"	44.71	2015
+"University of Bayreuth"	"Germany"	44.71	2015
+"Bar-Ilan University"	"Israel"	44.71	2015
+"University of Mississippi - Oxford Campus"	"USA"	44.7	2015
+"University of Tasmania"	"Australia"	44.7	2015
+"Graduate University for Advanced Studies"	"Japan"	44.7	2015
+"University of Surrey"	"United Kingdom"	44.7	2015
+"Federal University of Minas Gerais"	"Brazil"	44.7	2015
+"University of Tromsø - The Arctic University of Norway"	"Norway"	44.7	2015
+"University of Palermo"	"Italy"	44.7	2015
+"Shinshu University"	"Japan"	44.7	2015
+"University of Science and Technology Beijing"	"China"	44.7	2015
+"University of Catania"	"Italy"	44.69	2015
+"Mahidol University"	"Thailand"	44.69	2015
+"University of Canterbury"	"New Zealand"	44.68	2015
+"Indian Institute of Technology Madras"	"India"	44.68	2015
+"University of Bremen"	"Germany"	44.68	2015
+"Otto-von-Guericke University Magdeburg"	"Germany"	44.68	2015
+"University of Tartu"	"Estonia"	44.68	2015
+"University of Windsor"	"Canada"	44.68	2015
+"University of Nantes"	"France"	44.67	2015
+"Royal Holloway, University of London"	"United Kingdom"	44.67	2015
+"James Cook University"	"Australia"	44.67	2015
+"National Yang-Ming University"	"Taiwan"	44.65	2015
+"University of Akron"	"USA"	44.65	2015
+"National Chung Hsing University"	"Taiwan"	44.65	2015
+"City University London"	"United Kingdom"	44.64	2015
+"New York Medical College"	"USA"	44.64	2015
+"Nara Institute of Science and Technology"	"Japan"	44.63	2015
+"École Centrale Paris"	"France"	44.63	2015
+"Auburn University"	"USA"	44.63	2015
+"University of Arkansas - Fayetteville"	"USA"	44.62	2015
+"University of Zagreb"	"Croatia"	44.62	2015
+"University of Lübeck"	"Germany"	44.62	2015
+"Hunan University"	"China"	44.62	2015
+"University of Missouri–Kansas City"	"USA"	44.61	2015
+"Tokyo Women's Medical University"	"Japan"	44.61	2015
+"Montana State University - Bozeman"	"USA"	44.61	2015
+"University of Aveiro"	"Portugal"	44.61	2015
+"National University of Ireland, Galway"	"Ireland"	44.61	2015
+"University of Oviedo"	"Spain"	44.61	2015
+"Dongguk University"	"South Korea"	44.61	2015
+"University of Trento"	"Italy"	44.61	2015
+"University Lille 1: Sciences and Technologies"	"France"	44.6	2015
+"Chang Gung University"	"Taiwan"	44.6	2015
+"National Central University"	"Taiwan"	44.6	2015
+"Aalborg University"	"Denmark"	44.59	2015
+"Utah State University"	"USA"	44.59	2015
+"Baylor University"	"USA"	44.59	2015
+"Bangor University"	"United Kingdom"	44.59	2015
+"King Saud University"	"Saudi Arabia"	44.59	2015
+"University of Cagliari"	"Italy"	44.59	2015
+"Kent State University"	"USA"	44.58	2015
+"Central China Normal University"	"China"	44.58	2015
+"University of Fribourg"	"Switzerland"	44.58	2015
+"Medical University of Graz"	"Austria"	44.58	2015
+"Second University of Naples"	"Italy"	44.57	2015
+"International School for Advanced Studies"	"Italy"	44.57	2015
+"Tampere University of Technology"	"Finland"	44.56	2015
+"Inha University"	"South Korea"	44.56	2015
+"Deakin University"	"Australia"	44.56	2015
+"National Polytechnic Institute of Toulouse"	"France"	44.56	2015
+"Sogang University"	"South Korea"	44.56	2015
+"University of Ioannina"	"Greece"	44.55	2015
+"Federal University of Rio Grande do Sul"	"Brazil"	44.55	2015
+"University of Graz"	"Austria"	44.54	2015
+"University of Montana - Missoula"	"USA"	44.54	2015
+"East China Normal University"	"China"	44.54	2015
+"Plymouth University"	"United Kingdom"	44.54	2015
+"Victoria University of Wellington"	"New Zealand"	44.54	2015
+"Federal University of São Paulo"	"Brazil"	44.53	2015
+"Southern Illinois University Carbondale"	"USA"	44.53	2015
+"University of Alaska Fairbanks"	"USA"	44.53	2015
+"University of Toledo"	"USA"	44.53	2015
+"Carleton University"	"Canada"	44.53	2015
+"Cranfield University"	"United Kingdom"	44.52	2015
+"Curtin University"	"Australia"	44.52	2015
+"Indian Institute of Technology Bombay"	"India"	44.52	2015
+"University of Portsmouth"	"United Kingdom"	44.52	2015
+"Osaka Prefecture University"	"Japan"	44.52	2015
+"Nagoya City University"	"Japan"	44.52	2015
+"LSU Health Sciences Center New Orleans"	"USA"	44.52	2015
+"Tata Institute of Fundamental Research"	"India"	44.51	2015
+"Konkuk University"	"South Korea"	44.51	2015
+"University of La Laguna"	"Spain"	44.51	2015
+"University of Hertfordshire"	"United Kingdom"	44.51	2015
+"Florida International University"	"USA"	44.5	2015
+"University of Rhode Island"	"USA"	44.5	2015
+"Mississippi State University"	"USA"	44.5	2015
+"Gunma University"	"Japan"	44.5	2015
+"University of New Orleans"	"USA"	44.5	2015
+"Putra University, Malaysia"	"Malaysia"	44.49	2015
+"Memorial University of Newfoundland"	"Canada"	44.49	2015
+"Universidade Nova de Lisboa"	"Portugal"	44.49	2015
+"Griffith University"	"Australia"	44.49	2015
+"Indian Institute of Technology Kharagpur"	"India"	44.49	2015
+"Soochow University (Suzhou)"	"China"	44.49	2015
+"Texas A&M Health Science Center"	"USA"	44.49	2015
+"Semmelweis University"	"Hungary"	44.48	2015
+"Lille 2 University of Health and Law"	"France"	44.48	2015
+"Kagoshima University"	"Japan"	44.48	2015
+"Flinders University"	"Australia"	44.48	2015
+"Queensland University of Technology"	"Australia"	44.48	2015
+"Tokai University"	"Japan"	44.48	2015
+"Istanbul University"	"Turkey"	44.48	2015
+"Tokyo University of Agriculture and Technology"	"Japan"	44.47	2015
+"Louisiana Tech University"	"USA"	44.47	2015
+"University of Texas at Arlington"	"USA"	44.47	2015
+"China Agricultural University"	"China"	44.47	2015
+"Chungnam National University"	"South Korea"	44.47	2015
+"University of Minho"	"Portugal"	44.46	2015
+"University of Eastern Piedmont Amedeo Avogadro"""""	"Italy"	44.46	2015
+"Open University (UK)"	"United Kingdom"	44.46	2015
+"University of Essex"	"United Kingdom"	44.45	2015
+"Paris-Est Créteil Val-de-Marne University"	"France"	44.45	2015
+"Hacettepe University"	"Turkey"	44.45	2015
+"State University of New York Upstate Medical University"	"USA"	44.45	2015
+"Braunschweig University of Technology"	"Germany"	44.44	2015
+"University of Salamanca"	"Spain"	44.44	2015
+"Indian Institute of Technology Roorkee"	"India"	44.44	2015
+"Örebro University"	"Sweden"	44.44	2015
+"Northeast Normal University"	"China"	44.44	2015
+"University of Patras"	"Greece"	44.44	2015
+"Beijing University of Chemical Technology"	"China"	44.44	2015
+"Northern Illinois University"	"USA"	44.44	2015
+"Rovira i Virgili University"	"Spain"	44.44	2015
+"La Trobe University"	"Australia"	44.44	2015
+"Warsaw University of Technology"	"Poland"	44.43	2015
+"Binghamton University"	"USA"	44.43	2015
+"Shizuoka University"	"Japan"	44.43	2015
+"Hong Kong Baptist University"	"Hong Kong"	44.43	2015
+"Albany Medical College"	"USA"	44.43	2015
+"Ehime University"	"Japan"	44.43	2015
+"University of Los Andes (Colombia)"	"Colombia"	44.43	2015
+"Polytechnic University of Turin"	"Italy"	44.43	2015
+"University of Burgundy"	"France"	44.42	2015
+"University of Idaho"	"USA"	44.42	2015
+"Old Dominion University"	"USA"	44.42	2015
+"Yamaguchi University"	"Japan"	44.42	2015
+"Massey University"	"New Zealand"	44.42	2015
+"Donghua University"	"China"	44.41	2015
+"University of the Balearic Islands"	"Spain"	44.41	2015
+"Portland State University"	"USA"	44.41	2015
+"Marche Polytechnic University"	"Italy"	44.41	2015
+"University of Québec at Montreal"	"Canada"	44.41	2015
+"UNESP, São Paulo State University"	"Brazil"	44.41	2015
+"Loma Linda University"	"USA"	44.41	2015
+"University of Toyama"	"Japan"	44.41	2015
+"University of Debrecen"	"Hungary"	44.4	2015
+"University of Maine, Orono"	"USA"	44.4	2015
+"Graz University of Technology"	"Austria"	44.4	2015
+"Gifu University"	"Japan"	44.4	2015
+"University of Jyväskylä"	"Finland"	44.4	2015
+"University of Paris 13"	"France"	44.4	2015
+"University of Girona"	"Spain"	44.4	2015
+"Keele University"	"United Kingdom"	44.4	2015
+"University of Poitiers"	"France"	44.39	2015
+"University of Insubria"	"Italy"	44.39	2015
+"Wuhan University of Technology"	"China"	44.39	2015
+"University of Pretoria"	"South Africa"	44.39	2015
+"Banaras Hindu University"	"India"	44.39	2015
+"University of L'Aquila"	"Italy"	44.38	2015
+"University of Alicante"	"Spain"	44.38	2015
+"American University of Beirut"	"Lebanon"	44.38	2015
+"University of Ulster"	"United Kingdom"	44.38	2015
+"Shanghai University"	"China"	44.38	2015
+"Comenius University in Bratislava"	"Slovak Republic"	44.38	2015
+"University of Vigo"	"Spain"	44.38	2015
+"University of Nevada, Las Vegas"	"USA"	44.38	2015
+"Swinburne University of Technology"	"Australia"	44.38	2015
+"Tilburg University"	"Netherlands"	44.37	2015
+"University of Messina"	"Italy"	44.37	2015
+"Kaiserslautern University of Technology"	"Germany"	44.37	2015
+"University of Kent"	"United Kingdom"	44.37	2015
+"University of Málaga"	"Spain"	44.37	2015
+"Loughborough University"	"United Kingdom"	44.37	2015
+"National Technical University of Athens"	"Greece"	44.37	2015
+"Liverpool John Moores University"	"United Kingdom"	44.37	2015
+"Sharif University of Technology"	"Iran"	44.37	2015
+"Birkbeck, University of London"	"United Kingdom"	44.37	2015
+"University François Rabelais, Tours"	"France"	44.37	2015
+"University of Haifa"	"Israel"	44.36	2015
+"Roma Tre University"	"Italy"	44.36	2015
+"Masaryk University"	"Czech Republic"	44.36	2015
+"University of Salerno"	"Italy"	44.36	2015
+"King Abdullah University of Science and Technology"	"Saudi Arabia"	44.36	2015
+"Beihang University"	"China"	44.35	2015
+"Fuzhou University"	"China"	44.35	2015
+"Heriot-Watt University"	"United Kingdom"	44.35	2015
+"China Medical University (Taiwan)"	"Taiwan"	44.35	2015
+"University of Cantabria"	"Spain"	44.35	2015
+"Rochester Institute of Technology"	"USA"	44.35	2015
+"Royal College of Surgeons in Ireland"	"Ireland"	44.35	2015
+"San Francisco State University"	"USA"	44.35	2015
+"Sapporo Medical University"	"Japan"	44.35	2015
+"Indian Institute of Technology Kanpur"	"India"	44.34	2015
+"Johannes Kepler University of Linz"	"Austria"	44.34	2015
+"Czech Technical University in Prague"	"Czech Republic"	44.34	2015
+"Marquette University"	"USA"	44.34	2015
+"Missouri University of Science and Technology"	"USA"	44.34	2015
+"Howard University"	"USA"	44.33	2015
+"Aston University"	"United Kingdom"	44.33	2015
+"École normale supérieure de Cachan"	"France"	44.33	2015
+"Jichi Medical University"	"Japan"	44.33	2015
+"Rutgers, The State University of New Jersey - Newark"	"USA"	44.33	2015
+"Palacký University, Olomouc"	"Czech Republic"	44.33	2015
+"Ankara University"	"Turkey"	44.33	2015
+"University of Belgrade"	"Serbia"	44.33	2015
+"Toho University"	"Japan"	44.33	2015
+"Kyoto Prefectural University of Medicine"	"Japan"	44.33	2015
+"Swansea University"	"United Kingdom"	44.32	2015
+"Université de Namur"	"Belgium"	44.32	2015
+"University of Szeged"	"Hungary"	44.32	2015
+"Kitasato University"	"Japan"	44.32	2015
+"Hasselt University"	"Belgium"	44.32	2015
+"University of Córdoba (Spain)"	"Spain"	44.32	2015
+"Åbo Akademi University"	"Finland"	44.32	2015
+"Tottori University"	"Japan"	44.32	2015
+"Kindai University"	"Japan"	44.32	2015
+"University of Castilla–La Mancha"	"Spain"	44.31	2015
+"University of Augsburg"	"Germany"	44.31	2015
+"Paul Valéry University, Montpellier III"	"France"	44.31	2015
+"University of Mons"	"Belgium"	44.31	2015
+"Istanbul Technical University"	"Turkey"	44.31	2015
+"University of Natural Resources and Life Sciences, Vienna"	"Austria"	44.31	2015
+"National University of La Plata"	"Argentina"	44.31	2015
+"University of Calabria"	"Italy"	44.31	2015
+"University of Memphis"	"USA"	44.3	2015
+"G. d'Annunzio University, Chieti-Pescara"	"Italy"	44.3	2015
+"University of Missouri–St. Louis"	"USA"	44.3	2015
+"Beijing Institute of Technology"	"China"	44.3	2015
+"University of Évry Val d'Essonne"	"France"	44.3	2015
+"University of South Australia"	"Australia"	44.3	2015
+"University of Alabama in Huntsville"	"USA"	44.3	2015
+"University of Salzburg"	"Austria"	44.3	2015
+"University of Mississippi Medical Center"	"USA"	44.29	2015
+"National Research Nuclear University MEPhI"	"Russia"	44.29	2015
+"Chung-Ang University"	"South Korea"	44.29	2015
+"Kaohsiung Medical University"	"Taiwan"	44.29	2015
+"University of Neuchâtel"	"Switzerland"	44.29	2015
+"University of Yamanashi"	"Japan"	44.29	2015
+"Yamagata University"	"Japan"	44.29	2015
+"New Jersey Institute of Technology"	"USA"	44.28	2015
+"East Carolina University"	"USA"	44.28	2015
+"University of Hyogo"	"Japan"	44.28	2015
+"University of Picardie Jules Verne"	"France"	44.28	2015
+"University of Salento"	"Italy"	44.28	2015
+"Northern Arizona University"	"USA"	44.28	2015
+"Miguel Hernández University of Elche"	"Spain"	44.28	2015
+"University of Tehran"	"Iran"	44.28	2015
+"Blaise Pascal University"	"France"	44.28	2015
+"Yeungnam University"	"South Korea"	44.27	2015
+"Kurume University"	"Japan"	44.27	2015
+"Institut national des sciences Appliquées de Lyon"	"France"	44.27	2015
+"Saga University"	"Japan"	44.27	2015
+"Chongqing University"	"China"	44.27	2015
+"Jikei University School of Medicine"	"Japan"	44.27	2015
+"Second Military Medical University"	"China"	44.27	2015
+"Jawaharlal Nehru Centre for Advanced Scientific Research"	"India"	44.27	2015
+"University of North Texas, Denton"	"USA"	44.27	2015
+"Ege University"	"Turkey"	44.27	2015
+"Mie University"	"Japan"	44.27	2015
+"École Polytechnique de Montréal"	"Canada"	44.27	2015
+"AGH University of Science and Technology"	"Poland"	44.26	2015
+"University of Electronic Science and Technology of China"	"China"	44.26	2015
+"University of Stirling"	"United Kingdom"	44.26	2015
+"University of Greifswald"	"Germany"	44.26	2015
+"National Polytechnic Institute"	"Mexico"	44.26	2015
+"Jacobs University Bremen"	"Germany"	44.26	2015
+"Capital Medical University"	"China"	44.26	2015
+"Norwegian University of Life Sciences"	"Norway"	44.26	2015
+"Michigan Technological University"	"USA"	44.25	2015
+"Vilnius University"	"Lithuania"	44.25	2015
+"North Dakota State University - Main Campus"	"USA"	44.25	2015
+"University of Hohenheim"	"Germany"	44.25	2015
+"University of North Carolina at Charlotte"	"USA"	44.25	2015
+"Zhengzhou University"	"China"	44.25	2015
+"Cairo University"	"Egypt"	44.25	2015
+"University of Caen Lower Normandy"	"France"	44.25	2015
+"Saitama Medical University"	"Japan"	44.25	2015
+"University of Murcia"	"Spain"	44.24	2015
+"Showa University"	"Japan"	44.24	2015
+"University of Oldenburg"	"Germany"	44.24	2015
+"Magna Græcia University of Catanzaro"	"Italy"	44.24	2015
+"National Sun Yat-sen University"	"Taiwan"	44.24	2015
+"Nanjing University of Science and Technology"	"China"	44.24	2015
+"University of Concepción"	"Chile"	44.23	2015
+"Chungbuk National University"	"South Korea"	44.23	2015
+"Taipei Medical University"	"Taiwan"	44.23	2015
+"Jaume I University"	"Spain"	44.23	2015
+"Bowling Green State University"	"USA"	44.23	2015
+"Nanjing University of Technology"	"China"	44.22	2015
+"University of New England (Australia)"	"Australia"	44.22	2015
+"Kangwon National University"	"South Korea"	44.22	2015
+"Inje University"	"South Korea"	44.22	2015
+"Aberystwyth University"	"United Kingdom"	44.22	2015
+"University of Technology, Sydney"	"Australia"	44.22	2015
+"University of Franche-Comté"	"France"	44.22	2015
+"University of Sassari"	"Italy"	44.21	2015
+"Chiang Mai University"	"Thailand"	44.21	2015
+"Budapest University of Technology and Economics"	"Hungary"	44.21	2015
+"University of Maribor"	"Slovenia"	44.21	2015
+"University of Bradford"	"United Kingdom"	44.21	2015
+"University of Perpignan Via Domitia"	"France"	44.21	2015
+"Florida Institute of Technology"	"USA"	44.21	2015
+"University of Brighton"	"United Kingdom"	44.21	2015
+"University of Massachusetts Boston"	"USA"	44.21	2015
+"Rio de Janeiro State University"	"Brazil"	44.21	2015
+"Nagoya Institute of Technology"	"Japan"	44.2	2015
+"Jiangnan University"	"China"	44.2	2015
+"Murdoch University"	"Australia"	44.2	2015
+"University of Wales, Trinity Saint David"	"United Kingdom"	44.2	2015
+"University of Rouen"	"France"	44.2	2015
+"The Catholic University of America"	"USA"	44.2	2015
+"Wright State University - Dayton"	"USA"	44.2	2015
+"Dankook University"	"South Korea"	44.2	2015
+"Clarkson University"	"USA"	44.19	2015
+"University of Regina"	"Canada"	44.19	2015
+"Bo�?aziçi University"	"Turkey"	44.19	2015
+"K�?chi University"	"Japan"	44.19	2015
+"University of Miyazaki"	"Japan"	44.19	2015
+"University of Electro-Communications"	"Japan"	44.19	2015
+"University of Valladolid"	"Spain"	44.19	2015
+"Bilkent University"	"Turkey"	44.19	2015
+"Dublin City University"	"Ireland"	44.19	2015
+"University of South Alabama"	"USA"	44.19	2015
+"Sofia University"	"Bulgaria"	44.19	2015
+"Ocean University of China"	"China"	44.19	2015
+"King Fahd University of Petroleum and Minerals"	"Saudi Arabia"	44.19	2015
+"University of Veterinary Medicine Vienna"	"Austria"	44.19	2015
+"University of Alcalá"	"Spain"	44.18	2015
+"Hunter College"	"USA"	44.18	2015
+"All India Institute of Medical Sciences, New Delhi"	"India"	44.18	2015
+"Gazi University"	"Turkey"	44.18	2015
+"National University of Ireland, Maynooth"	"Ireland"	44.18	2015
+"Tehran University of Medical Sciences"	"Iran"	44.18	2015
+"University of the Ryukyus"	"Japan"	44.18	2015
+"Florida Atlantic University"	"USA"	44.17	2015
+"University of Siegen"	"Germany"	44.17	2015
+"Huazhong Agricultural University"	"China"	44.17	2015
+"University of Angers"	"France"	44.17	2015
+"University of Seoul"	"South Korea"	44.17	2015
+"Brock University"	"Canada"	44.17	2015
+"Fukuoka University"	"Japan"	44.17	2015
+"Hamamatsu University School of Medicine"	"Japan"	44.17	2015
+"Nanjing Normal University"	"China"	44.17	2015
+"National Chung Cheng University"	"Taiwan"	44.17	2015
+"Nanjing Agricultural University"	"China"	44.16	2015
+"University of the Republic (Uruguay)"	"Uruguay"	44.16	2015
+"Sejong University"	"South Korea"	44.16	2015
+"Makerere University"	"Uganda"	44.16	2015
+"University of New Brunswick"	"Canada"	44.16	2015
+"Northeastern University (China)"	"China"	44.16	2015
+"University of Extremadura"	"Spain"	44.16	2015
+"RMIT University"	"Australia"	44.16	2015
+"Royal Veterinary College, University of London"	"United Kingdom"	44.16	2015
+"Chung Yuan Christian University"	"Taiwan"	44.16	2015
+"University of Osnabrück"	"Germany"	44.15	2015
+"Northwest University (China)"	"China"	44.15	2015
+"Chosun University"	"South Korea"	44.15	2015
+"University of Orléans"	"France"	44.15	2015
+"Jean Monnet University"	"France"	44.15	2015
+"École centrale de Lyon"	"France"	44.15	2015
+"University of Western Sydney"	"Australia"	44.15	2015
+"Hefei University of Technology"	"China"	44.15	2015
+"University of Massachusetts Lowell"	"USA"	44.15	2015
+"Manchester Metropolitan University"	"United Kingdom"	44.14	2015
+"Nanjing Medical University"	"China"	44.14	2015
+"Kyoto Institute of Technology"	"Japan"	44.14	2015
+"Shanghai Normal University"	"China"	44.14	2015
+"Southwest University"	"China"	44.14	2015
+"Adam Mickiewicz University in Poznań"	"Poland"	44.14	2015
+"University of Calcutta"	"India"	44.14	2015
+"University of Pécs"	"Hungary"	44.14	2015
+"Queens College, City University of New York"	"USA"	44.14	2015
+"University of Lleida"	"Spain"	44.14	2015
+"Nanjing University of Aeronautics and Astronautics"	"China"	44.14	2015
+"University of Western Brittany"	"France"	44.13	2015
+"University of North Carolina at Greensboro"	"USA"	44.13	2015
+"Pukyong National University"	"South Korea"	44.13	2015
+"Fourth Military Medical University"	"China"	44.13	2015
+"University of Fukui"	"Japan"	44.13	2015
+"University of Southern Mississippi"	"USA"	44.13	2015
+"University of Mannheim"	"Germany"	44.13	2015
+"Shimane University"	"Japan"	44.13	2015
+"China University of Geosciences (Wuhan)"	"China"	44.13	2015
+"University of Thessaly"	"Greece"	44.13	2015
+"Oakland University"	"USA"	44.13	2015
+"Wilfrid Laurier University"	"Canada"	44.13	2015
+"Teikyo University"	"Japan"	44.12	2015
+"Saitama University"	"Japan"	44.12	2015
+"Trent University"	"Canada"	44.12	2015
+"Nicolaus Copernicus University in Toruń"	"Poland"	44.12	2015
+"Tarbiat Modares University"	"Iran"	44.12	2015
+"University of North Dakota"	"USA"	44.12	2015
+"Isfahan University of Technology"	"Iran"	44.12	2015
+"Fluminense Federal University"	"Brazil"	44.12	2015
+"National Taiwan University of Science and Technology"	"Taiwan"	44.12	2015
+"University of Lethbridge"	"Canada"	44.12	2015
+"Federal University of Santa Catarina"	"Brazil"	44.12	2015
+"University of Camerino"	"Italy"	44.12	2015
+"University of Brasília"	"Brazil"	44.12	2015
+"University of Wrocław"	"Poland"	44.12	2015
+"University of Basilicata"	"Italy"	44.12	2015
+"Jadavpur University"	"India"	44.11	2015
+"South China Normal University"	"China"	44.11	2015
+"University of Hyderabad"	"India"	44.11	2015
+"Ritsumeikan University"	"Japan"	44.1	2015
+"Carlos III University of Madrid"	"Spain"	44.1	2015
+"University of Cyprus"	"Cyprus"	44.1	2015
+"University of Texas at El Paso"	"USA"	44.1	2015
+"University of Cádiz"	"Spain"	44.1	2015
+"Shahid Beheshti University of Medical Sciences"	"Iran"	44.1	2015
+"National Taiwan Normal University"	"Taiwan"	44.1	2015
+"National University of Córdoba"	"Argentina"	44.1	2015
+"Federal University of Paraná"	"Brazil"	44.1	2015
+"University of Jaén"	"Spain"	44.09	2015
+"University of California, Merced"	"USA"	44.09	2015
+"University of Waikato"	"New Zealand"	44.09	2015
+"University of Central Lancashire"	"United Kingdom"	44.09	2015
+"Federal University of Pernambuco"	"Brazil"	44.09	2015
+"University of Almería"	"Spain"	44.09	2015
+"Federal University of São Carlos"	"Brazil"	44.09	2015
+"Charles Darwin University"	"Australia"	44.09	2015
+"Yangzhou University"	"China"	44.09	2015
+"Wrocław University of Technology"	"Poland"	44.09	2015
+"Hirosaki University"	"Japan"	44.08	2015
+"National Taiwan Ocean University"	"Taiwan"	44.08	2015
+"Jiangsu University"	"China"	44.08	2015
+"Northwestern Polytechnical University"	"China"	44.08	2015
+"Xiangtan University"	"China"	44.08	2015
+"United Arab Emirates University"	"United Arab Emirates"	44.08	2015
+"Gachon University"	"South Korea"	44.08	2015
+"Hallym University"	"South Korea"	44.08	2015
+"Harbin Engineering University"	"China"	44.07	2015
+"Dokuz Eylül University"	"Turkey"	44.07	2015
+"Jinan University"	"China"	44.07	2015
+"Shiraz University"	"Iran"	44.07	2015
+"Third Military Medical University"	"China"	44.07	2015
+"Amirkabir University of Technology"	"Iran"	44.07	2015
+"Public University of Navarre"	"Spain"	44.07	2015
+"Federico Santa María Technical University"	"Chile"	44.07	2015
+"Federal University of ABC"	"Brazil"	44.07	2015
+"University of Puerto Rico at Mayagüez"	"Puerto Rico"	44.06	2015
+"Southern Medical University"	"China"	44.06	2015
+"University of Silesia"	"Poland"	44.06	2015
+"Ain Shams University"	"Egypt"	44.06	2015
+"University of Valenciennes and Hainaut-Cambresis"	"France"	44.06	2015
+"Chung Shan Medical University"	"Taiwan"	44.06	2015
+"National University of Colombia"	"Colombia"	44.06	2015
+"South China Agricultural University"	"China"	44.06	2015
+"Ibaraki University"	"Japan"	44.06	2015
+"Fu Jen Catholic University"	"Taiwan"	44.06	2015
+"Hunan Normal University"	"China"	44.06	2015
+"Ulsan National Institute of Science and Technology"	"South Korea"	44.06	2015
+"Federal University of Santa Maria"	"Brazil"	44.05	2015
+"Shenzhen University"	"China"	44.05	2015
+"Tianjin Medical University"	"China"	44.05	2015
+"Beijing University of Technology"	"China"	44.05	2015
+"University of Reims Champagne-Ardenne"	"France"	44.05	2015
+"Yuan Ze University"	"Taiwan"	44.05	2015
+"University of Chemistry and Technology, Prague"	"Czech Republic"	44.05	2015
+"University of Limerick"	"Ireland"	44.05	2015
+"China Medical University (PRC)"	"China"	44.04	2015
+"Feng Chia University"	"Taiwan"	44.04	2015
+"Zhejiang University of Technology"	"China"	44.04	2015
+"Novosibirsk State University"	"Russia"	44.04	2015
+"University of Bucharest"	"Romania"	44.04	2015
+"Babeș-Bolyai University"	"Romania"	44.04	2015
+"Mansoura University"	"Egypt"	44.04	2015
+"University of Pau and Pays de l'Adour"	"France"	44.04	2015
+"Henan Normal University"	"China"	44.04	2015
+"Xidian University"	"China"	44.03	2015
+"Federal University of Bahia"	"Brazil"	44.03	2015
+"Southwest Jiaotong University"	"China"	44.03	2015
+"Ryerson University"	"Canada"	44.03	2015
+"King Abdulaziz University"	"Saudi Arabia"	44.03	2015
+"University of the Algarve"	"Portugal"	44.03	2015
+"Alexandria University"	"Egypt"	44.03	2015
+"Federal University of Ceará"	"Brazil"	44.03	2015
+"University of A Coruña"	"Spain"	44.02	2015
+"China Pharmaceutical University"	"China"	44.02	2015

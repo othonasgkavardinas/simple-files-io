@@ -1,0 +1,2201 @@
+"university";"country";"score";"year"
+"Harvard University";"USA";100.0;2012
+"Massachusetts Institute of Technology";"USA";91.67;2012
+"Stanford University";"USA";89.5;2012
+"University of Cambridge";"United Kingdom";86.17;2012
+"California Institute of Technology";"USA";85.21;2012
+"Princeton University";"USA";82.5;2012
+"University of Oxford";"United Kingdom";82.34;2012
+"Yale University";"USA";79.14;2012
+"Columbia University";"USA";78.86;2012
+"University of California, Berkeley";"USA";78.55;2012
+"University of Chicago";"USA";73.82;2012
+"Cornell University";"USA";73.69;2012
+"University of Pennsylvania";"USA";73.64;2012
+"University of Tokyo";"Japan";69.49;2012
+"Johns Hopkins University";"USA";66.94;2012
+"Swiss Federal Institute of Technology in Zurich";"Switzerland";66.69;2012
+"Kyoto University";"Japan";65.76;2012
+"Weizmann Institute of Science";"Israel";65.09;2012
+"University of California, Los Angeles";"USA";64.05;2012
+"University of California, San Diego";"USA";63.11;2012
+"Rockefeller University";"USA";61.74;2012
+"Hebrew University of Jerusalem";"Israel";60.76;2012
+"New York University";"USA";60.55;2012
+"University of California, San Francisco";"USA";59.7;2012
+"University of Wisconsin–Madison";"USA";59.66;2012
+"University of Illinois at Urbana–Champaign";"USA";59.0;2012
+"Duke University";"USA";58.37;2012
+"Imperial College London";"United Kingdom";57.53;2012
+"University of Texas Southwestern Medical Center";"USA";56.43;2012
+"University of Texas at Austin";"USA";56.18;2012
+"University College London";"United Kingdom";55.21;2012
+"Osaka University";"Japan";54.43;2012
+"Northwestern University";"USA";54.4;2012
+"University of Michigan, Ann Arbor";"USA";53.72;2012
+"University of Toronto";"Canada";53.43;2012
+"University of North Carolina at Chapel Hill";"USA";53.09;2012
+"Washington University in St. Louis";"USA";52.9;2012
+"University of Utah";"USA";52.64;2012
+"University of Washington - Seattle";"USA";52.25;2012
+"University of California, Santa Barbara";"USA";52.15;2012
+"McGill University";"Canada";51.72;2012
+"Purdue University, West Lafayette";"USA";51.66;2012
+"Carnegie Mellon University";"USA";51.6;2012
+"University of Southern California";"USA";51.38;2012
+"University of California, Davis";"USA";51.06;2012
+"University of Colorado Boulder";"USA";50.68;2012
+"University of California, Irvine";"USA";50.64;2012
+"University of Paris-Sud";"France";50.44;2012
+"University of Minnesota, Twin Cities";"USA";50.3;2012
+"University of Arizona";"USA";50.29;2012
+"Technion – Israel Institute of Technology";"Israel";50.01;2012
+"Ohio State University, Columbus";"USA";49.54;2012
+"University of Rochester";"USA";49.51;2012
+"École normale supérieure - Paris";"France";49.1;2012
+"University of Florida";"USA";48.8;2012
+"Tel Aviv University";"Israel";48.76;2012
+"Rice University";"USA";48.76;2012
+"Dartmouth College";"USA";48.5;2012
+"Vanderbilt University";"USA";48.44;2012
+"University of Edinburgh";"United Kingdom";48.43;2012
+"École Polytechnique";"France";48.33;2012
+"Boston University";"USA";48.31;2012
+"Pierre-and-Marie-Curie University";"France";48.26;2012
+"Pennsylvania State University, University Park";"USA";48.15;2012
+"University of Geneva";"Switzerland";47.94;2012
+"Brown University";"USA";47.91;2012
+"University of British Columbia";"Canada";47.74;2012
+"University of Maryland, College Park";"USA";47.69;2012
+"Swiss Federal Institute of Technology in Lausanne";"Switzerland";47.68;2012
+"Karolinska Institute";"Sweden";47.61;2012
+"University of Pittsburgh - Pittsburgh Campus";"USA";47.59;2012
+"Rutgers University-New Brunswick";"USA";47.5;2012
+"Texas A&M University, College Station";"USA";47.31;2012
+"Nagoya University";"Japan";46.89;2012
+"Seoul National University";"South Korea";46.74;2012
+"University of Manchester";"United Kingdom";46.38;2012
+"Sapienza University of Rome";"Italy";46.34;2012
+"Case Western Reserve University";"USA";46.11;2012
+"Tohoku University";"Japan";45.82;2012
+"Arizona State University";"USA";45.7;2012
+"Emory University";"USA";45.47;2012
+"Ruprecht Karl University of Heidelberg";"Germany";45.33;2012
+"Ludwig Maximilian University of Munich";"Germany";45.21;2012
+"University of Virginia";"USA";45.2;2012
+"Leiden University";"Netherlands";45.13;2012
+"Tufts University";"USA";44.91;2012
+"Georgia Institute of Technology";"USA";44.71;2012
+"University of Zurich";"Switzerland";44.51;2012
+"University of Helsinki";"Finland";44.44;2012
+"Technical University of Munich";"Germany";44.32;2012
+"University of Oslo";"Norway";44.26;2012
+"University of Queensland";"Australia";44.18;2012
+"University of Copenhagen";"Denmark";44.15;2012
+"University of Sydney";"Australia";44.13;2012
+"Williams College";"USA";43.89;2012
+"University of Texas MD Anderson Cancer Center";"USA";43.88;2012
+"University of Nottingham";"United Kingdom";43.79;2012
+"University of Bristol";"United Kingdom";43.77;2012
+"Utrecht University";"Netherlands";43.47;2012
+"Mines ParisTech";"France";43.36;2012
+"Harvard University";"USA";100.0;2013
+"Stanford University";"USA";93.94;2013
+"University of Oxford";"United Kingdom";92.54;2013
+"Massachusetts Institute of Technology";"USA";91.45;2013
+"University of Cambridge";"United Kingdom";90.24;2013
+"Columbia University";"USA";88.21;2013
+"University of California, Berkeley";"USA";85.07;2013
+"Princeton University";"USA";82.17;2013
+"University of Chicago";"USA";79.16;2013
+"Yale University";"USA";78.83;2013
+"California Institute of Technology";"USA";77.59;2013
+"University of Pennsylvania";"USA";77.24;2013
+"Cornell University";"USA";76.99;2013
+"University of Tokyo";"Japan";76.23;2013
+"Kyoto University";"Japan";69.46;2013
+"University of California, Los Angeles";"USA";67.84;2013
+"Johns Hopkins University";"USA";65.64;2013
+"Swiss Federal Institute of Technology in Zurich";"Switzerland";64.99;2013
+"New York University";"USA";63.99;2013
+"University of California, San Diego";"USA";63.12;2013
+"Hebrew University of Jerusalem";"Israel";59.98;2013
+"University of California, San Francisco";"USA";59.38;2013
+"University of Wisconsin–Madison";"USA";58.94;2013
+"University of Illinois at Urbana–Champaign";"USA";58.33;2013
+"Duke University";"USA";57.72;2013
+"University of Texas at Austin";"USA";57.71;2013
+"Imperial College London";"United Kingdom";56.75;2013
+"Northwestern University";"USA";56.12;2013
+"University of Toronto";"Canada";56.11;2013
+"University College London";"United Kingdom";56.0;2013
+"University of Washington - Seattle";"USA";55.79;2013
+"University of Michigan, Ann Arbor";"USA";55.77;2013
+"Weizmann Institute of Science";"Israel";54.34;2013
+"University of North Carolina at Chapel Hill";"USA";52.87;2013
+"Osaka University";"Japan";52.79;2013
+"University of Paris-Sud";"France";51.72;2013
+"University of California, Santa Barbara";"USA";51.67;2013
+"Purdue University, West Lafayette";"USA";51.59;2013
+"University of Southern California";"USA";51.56;2013
+"Seoul National University";"South Korea";51.31;2013
+"University of Colorado Boulder";"USA";51.16;2013
+"University of Utah";"USA";51.14;2013
+"Rutgers University-New Brunswick";"USA";51.09;2013
+"University of Minnesota, Twin Cities";"USA";50.98;2013
+"University of Edinburgh";"United Kingdom";50.98;2013
+"University of Texas Southwestern Medical Center";"USA";50.79;2013
+"McGill University";"Canada";50.77;2013
+"Pierre-and-Marie-Curie University";"France";50.58;2013
+"Rockefeller University";"USA";50.43;2013
+"Pennsylvania State University, University Park";"USA";49.84;2013
+"Carnegie Mellon University";"USA";49.56;2013
+"Ohio State University, Columbus";"USA";49.41;2013
+"University of California, Davis";"USA";49.16;2013
+"Boston University";"USA";48.96;2013
+"University of Florida";"USA";48.93;2013
+"University of Geneva";"Switzerland";48.83;2013
+"Tel Aviv University";"Israel";48.72;2013
+"University of British Columbia";"Canada";48.51;2013
+"University of Maryland, College Park";"USA";48.39;2013
+"Karolinska Institute";"Sweden";47.98;2013
+"Vanderbilt University";"USA";47.8;2013
+"Sapienza University of Rome";"Italy";47.75;2013
+"Washington University in St. Louis";"USA";47.72;2013
+"École normale supérieure - Paris";"France";47.7;2013
+"University of California, Irvine";"USA";47.52;2013
+"Technion – Israel Institute of Technology";"Israel";47.45;2013
+"Ludwig Maximilian University of Munich";"Germany";47.25;2013
+"University of Copenhagen";"Denmark";47.12;2013
+"University of Pittsburgh - Pittsburgh Campus";"USA";47.08;2013
+"Keio University";"Japan";47.05;2013
+"University of Virginia";"USA";46.92;2013
+"University of Manchester";"United Kingdom";46.85;2013
+"Arizona State University";"USA";46.72;2013
+"University of Zurich";"Switzerland";46.54;2013
+"King's College London";"United Kingdom";46.53;2013
+"University of Rochester";"USA";46.44;2013
+"Brown University";"USA";46.43;2013
+"University of Arizona";"USA";46.39;2013
+"Ruprecht Karl University of Heidelberg";"Germany";46.24;2013
+"Texas A&M University, College Station";"USA";46.17;2013
+"University of Oslo";"Norway";46.1;2013
+"Dartmouth College";"USA";46.04;2013
+"Swiss Federal Institute of Technology in Lausanne";"Switzerland";45.73;2013
+"Utrecht University";"Netherlands";45.73;2013
+"Indiana University - Bloomington";"USA";45.71;2013
+"École Polytechnique";"France";45.38;2013
+"National University of Singapore";"Singapore";45.2;2013
+"University of Texas MD Anderson Cancer Center";"USA";45.12;2013
+"Stony Brook University";"USA";45.01;2013
+"Lomonosov Moscow State University";"Russia";44.93;2013
+"Nagoya University";"Japan";44.78;2013
+"University of Sydney";"Australia";44.77;2013
+"Emory University";"USA";44.53;2013
+"Rice University";"USA";44.53;2013
+"Tohoku University";"Japan";44.52;2013
+"Australian National University";"Australia";44.5;2013
+"University of Alberta";"Canada";44.5;2013
+"University of Helsinki";"Finland";44.39;2013
+"Paris Diderot University - Paris 7";"France";44.36;2013
+"Georgia Institute of Technology";"USA";44.26;2013
+"Harvard University";"USA";100.0;2014
+"Stanford University";"USA";99.09;2014
+"Massachusetts Institute of Technology";"USA";98.69;2014
+"University of Cambridge";"United Kingdom";97.64;2014
+"University of Oxford";"United Kingdom";97.51;2014
+"Columbia University";"USA";97.41;2014
+"University of California, Berkeley";"USA";92.84;2014
+"University of Chicago";"USA";92.03;2014
+"Princeton University";"USA";88.56;2014
+"Yale University";"USA";88.11;2014
+"Cornell University";"USA";85.8;2014
+"California Institute of Technology";"USA";85.5;2014
+"University of Tokyo";"Japan";80.64;2014
+"University of Pennsylvania";"USA";79.3;2014
+"University of California, Los Angeles";"USA";78.35;2014
+"Kyoto University";"Japan";73.21;2014
+"New York University";"USA";72.29;2014
+"Swiss Federal Institute of Technology in Zurich";"Switzerland";72.18;2014
+"Johns Hopkins University";"USA";71.17;2014
+"University of California, San Diego";"USA";68.36;2014
+"University of Michigan, Ann Arbor";"USA";68.27;2014
+"Hebrew University of Jerusalem";"Israel";66.76;2014
+"Northwestern University";"USA";66.18;2014
+"Seoul National University";"South Korea";66.06;2014
+"University of Wisconsin–Madison";"USA";65.77;2014
+"Duke University";"USA";63.56;2014
+"University of California, San Francisco";"USA";63.36;2014
+"University of Illinois at Urbana–Champaign";"USA";62.89;2014
+"University of Texas at Austin";"USA";62.57;2014
+"University College London";"United Kingdom";61.05;2014
+"University of Toronto";"Canada";60.87;2014
+"University of Washington - Seattle";"USA";60.28;2014
+"Rutgers University-New Brunswick";"USA";60.0;2014
+"Keio University";"Japan";59.84;2014
+"École normale supérieure - Paris";"France";59.72;2014
+"École Polytechnique";"France";59.54;2014
+"Rockefeller University";"USA";59.49;2014
+"Weizmann Institute of Science";"Israel";59.17;2014
+"Imperial College London";"United Kingdom";58.85;2014
+"Waseda University";"Japan";58.69;2014
+"University of Virginia";"USA";58.6;2014
+"McGill University";"Canada";58.39;2014
+"Osaka University";"Japan";58.35;2014
+"Dartmouth College";"USA";58.0;2014
+"University of North Carolina at Chapel Hill";"USA";57.51;2014
+"Pennsylvania State University, University Park";"USA";57.19;2014
+"Ohio State University, Columbus";"USA";57.01;2014
+"Lomonosov Moscow State University";"Russia";56.42;2014
+"University of Minnesota, Twin Cities";"USA";56.13;2014
+"University of Paris-Sud";"France";56.06;2014
+"University of Southern California";"USA";55.7;2014
+"Purdue University, West Lafayette";"USA";55.67;2014
+"University of Pittsburgh - Pittsburgh Campus";"USA";55.67;2014
+"Carnegie Mellon University";"USA";55.3;2014
+"Peking University";"China";55.3;2014
+"University of Edinburgh";"United Kingdom";55.2;2014
+"University of California, Davis";"USA";55.18;2014
+"Washington University in St. Louis";"USA";54.93;2014
+"University of Florida";"USA";54.76;2014
+"University of California, Santa Barbara";"USA";54.76;2014
+"University of British Columbia";"Canada";54.75;2014
+"University of Utah";"USA";54.67;2014
+"University of Colorado Boulder";"USA";54.5;2014
+"University of Notre Dame";"USA";54.25;2014
+"National Taiwan University";"Taiwan";54.19;2014
+"University of Texas Southwestern Medical Center";"USA";54.07;2014
+"Boston University";"USA";53.96;2014
+"Pierre-and-Marie-Curie University";"France";53.91;2014
+"University of Manchester";"United Kingdom";53.9;2014
+"University of Arizona";"USA";53.77;2014
+"Vanderbilt University";"USA";53.69;2014
+"Tohoku University";"Japan";53.65;2014
+"Karolinska Institute";"Sweden";53.64;2014
+"National University of Singapore";"Singapore";53.52;2014
+"University of Geneva";"Switzerland";53.5;2014
+"University of Maryland, College Park";"USA";53.46;2014
+"University of Rochester";"USA";53.06;2014
+"Emory University";"USA";53.01;2014
+"University of Copenhagen";"Denmark";52.94;2014
+"University of California, Irvine";"USA";52.93;2014
+"Brown University";"USA";52.92;2014
+"Ludwig Maximilian University of Munich";"Germany";52.75;2014
+"Georgia Institute of Technology";"USA";52.74;2014
+"Tufts University";"USA";52.71;2014
+"University of Zurich";"Switzerland";52.69;2014
+"Tel Aviv University";"Israel";52.63;2014
+"Tsinghua University";"China";52.6;2014
+"Utrecht University";"Netherlands";52.42;2014
+"Ruprecht Karl University of Heidelberg";"Germany";52.4;2014
+"King's College London";"United Kingdom";52.31;2014
+"Sapienza University of Rome";"Italy";52.12;2014
+"Kyushu University";"Japan";51.96;2014
+"Swiss Federal Institute of Technology in Lausanne";"Switzerland";51.8;2014
+"Katholieke Universiteit Leuven";"Belgium";51.72;2014
+"University of Sydney";"Australia";51.58;2014
+"Tokyo Institute of Technology";"Japan";51.53;2014
+"University of Melbourne";"Australia";51.43;2014
+"University of Bonn";"Germany";51.37;2014
+"Technical University of Munich";"Germany";51.34;2014
+"Royal Institute of Technology";"Sweden";51.34;2014
+"Erasmus University Rotterdam";"Netherlands";51.29;2014
+"Case Western Reserve University";"USA";51.27;2014
+"University of Alberta";"Canada";51.23;2014
+"University of Texas MD Anderson Cancer Center";"USA";51.19;2014
+"Texas A&M University, College Station";"USA";51.18;2014
+"Arizona State University";"USA";51.14;2014
+"Yonsei University";"South Korea";50.95;2014
+"Rice University";"USA";50.94;2014
+"Technion – Israel Institute of Technology";"Israel";50.89;2014
+"University of Helsinki";"Finland";50.76;2014
+"University of Oslo";"Norway";50.7;2014
+"Michigan State University";"USA";50.69;2014
+"Indiana University - Bloomington";"USA";50.53;2014
+"University of the Witwatersrand";"South Africa";50.4;2014
+"University of Queensland";"Australia";50.37;2014
+"Lund University";"Sweden";50.34;2014
+"Leiden University";"Netherlands";50.29;2014
+"Georgetown University";"USA";50.28;2014
+"Aarhus University";"Denmark";50.17;2014
+"University of Barcelona";"Spain";50.17;2014
+"Baylor College of Medicine";"USA";50.12;2014
+"University of Amsterdam";"Netherlands";49.97;2014
+"University of Bristol";"United Kingdom";49.97;2014
+"Uppsala University";"Sweden";49.96;2014
+"University of Iowa";"USA";49.95;2014
+"Stony Brook University";"USA";49.92;2014
+"University of Groningen";"Netherlands";49.89;2014
+"Korea Advanced Institute of Science and Technology (KAIST)";"South Korea";49.88;2014
+"Radboud University Nijmegen";"Netherlands";49.85;2014
+"Korea University";"South Korea";49.84;2014
+"University of São Paulo";"Brazil";49.82;2014
+"Nagoya University";"Japan";49.82;2014
+"University of Colorado Denver";"USA";49.79;2014
+"University of Montreal";"Canada";49.79;2014
+"Albert Ludwig University of Freiburg";"Germany";49.78;2014
+"Ghent University";"Belgium";49.73;2014
+"University of Glasgow";"United Kingdom";49.64;2014
+"University of Miami";"USA";49.62;2014
+"Université libre de Bruxelles";"Belgium";49.6;2014
+"Paris Diderot University - Paris 7";"France";49.53;2014
+"McMaster University";"Canada";49.51;2014
+"University of Birmingham";"United Kingdom";49.48;2014
+"University of Texas at Dallas";"USA";49.47;2014
+"VU University Amsterdam";"Netherlands";49.47;2014
+"Wake Forest University";"USA";49.46;2014
+"University of Southampton";"United Kingdom";49.42;2014
+"University of Nottingham";"United Kingdom";49.41;2014
+"Nanyang Technological University";"Singapore";49.35;2014
+"University of New South Wales";"Australia";49.29;2014
+"Osaka City University";"Japan";49.25;2014
+"University of Leeds";"United Kingdom";49.23;2014
+"Western University (The University of Western Ontario)";"Canada";49.18;2014
+"Kobe University";"Japan";49.18;2014
+"University of Basel";"Switzerland";49.17;2014
+"University of Hong Kong";"Hong Kong";49.1;2014
+"Indiana University-Purdue University Indianapolis";"USA";49.08;2014
+"Humboldt University of Berlin";"Germany";49.03;2014
+"Free University of Berlin";"Germany";49.02;2014
+"University of Tübingen";"Germany";48.99;2014
+"Australian National University";"Australia";48.96;2014
+"Goethe University Frankfurt";"Germany";48.93;2014
+"University of Houston";"USA";48.91;2014
+"University of California, Santa Cruz";"USA";48.89;2014
+"University of Alabama at Birmingham";"USA";48.88;2014
+"Icahn School of Medicine at Mount Sinai";"USA";48.85;2014
+"University of Calgary";"Canada";48.84;2014
+"Mines ParisTech";"France";48.81;2014
+"University of Gothenburg";"Sweden";48.79;2014
+"University of Göttingen";"Germany";48.77;2014
+"Monash University";"Australia";48.71;2014
+"Southern Methodist University";"USA";48.69;2014
+"Yeshiva University";"USA";48.67;2014
+"University of South Florida - Tampa";"USA";48.65;2014
+"Hanyang University";"South Korea";48.63;2014
+"Oregon Health & Science University";"USA";48.61;2014
+"University of Strasbourg";"France";48.61;2014
+"University of Cincinnati";"USA";48.6;2014
+"University of Sheffield";"United Kingdom";48.55;2014
+"University of Hamburg";"Germany";48.54;2014
+"George Washington University";"USA";48.48;2014
+"University of Milan";"Italy";48.48;2014
+"Iowa State University";"USA";48.47;2014
+"University of Maryland, Baltimore";"USA";48.4;2014
+"University of Padua";"Italy";48.4;2014
+"University of New Mexico";"USA";48.36;2014
+"Pohang University of Science and Technology";"South Korea";48.35;2014
+"Stockholm University";"Sweden";48.27;2014
+"Hokkaido University";"Japan";48.18;2014
+"Fudan University";"China";48.14;2014
+"University of Sussex";"United Kingdom";48.12;2014
+"Université catholique de Louvain";"Belgium";48.08;2014
+"Wayne State University";"USA";48.07;2014
+"University of Massachusetts Medical School";"USA";48.06;2014
+"University of Lausanne";"Switzerland";48.05;2014
+"Shanghai Jiao Tong University";"China";48.02;2014
+"University of Missouri–Columbia";"USA";48.02;2014
+"Technical University of Denmark";"Denmark";47.98;2014
+"Complutense University of Madrid";"Spain";47.97;2014
+"University of Cologne";"Germany";47.97;2014
+"Trinity College, Dublin";"Ireland";47.96;2014
+"University of Bern";"Switzerland";47.93;2014
+"Chinese University of Hong Kong";"Hong Kong";47.83;2014
+"University of Kansas";"USA";47.82;2014
+"Sungkyunkwan University";"South Korea";47.79;2014
+"University of Vienna";"Austria";47.78;2014
+"Zhejiang University";"China";47.76;2014
+"University of Georgia";"USA";47.75;2014
+"University of Massachusetts Amherst";"USA";47.74;2014
+"Cardiff University";"United Kingdom";47.74;2014
+"University of Münster";"Germany";47.73;2014
+"University of Liverpool";"United Kingdom";47.69;2014
+"University of Ottawa";"Canada";47.69;2014
+"University of Erlangen-Nuremberg";"Germany";47.69;2014
+"Queen Mary University of London";"United Kingdom";47.67;2014
+"Karlsruhe Institute of Technology";"Germany";47.67;2014
+"Louisiana State University - Baton Rouge";"USA";47.67;2014
+"Nanjing University";"China";47.67;2014
+"University of Illinois at Chicago";"USA";47.63;2014
+"University of Bologna";"Italy";47.59;2014
+"University of Manitoba";"Canada";47.56;2014
+"Joseph Fourier University";"France";47.54;2014
+"University of California, Riverside";"USA";47.53;2014
+"Julius-Maximilian's University of Würzburg";"Germany";47.5;2014
+"Aix-Marseille University";"France";47.48;2014
+"University of Western Australia";"Australia";47.47;2014
+"Laval University";"Canada";47.47;2014
+"University of Tennessee, Knoxville";"USA";47.45;2014
+"North Carolina State University";"USA";47.43;2014
+"Newcastle University";"United Kingdom";47.42;2014
+"Claude Bernard University Lyon 1";"France";47.42;2014
+"University of Turin";"Italy";47.4;2014
+"University of Kiel";"Germany";47.39;2014
+"University of Connecticut";"USA";47.35;2014
+"Tulane University";"USA";47.34;2014
+"University of Oklahoma - Norman Campus";"USA";47.33;2014
+"Brandeis University";"USA";47.31;2014
+"Dresden University of Technology";"Germany";47.26;2014
+"RWTH Aachen University";"Germany";47.26;2014
+"University of Texas Health Science Center at San Antonio";"USA";47.26;2014
+"Virginia Commonwealth University";"USA";47.26;2014
+"University of Montpellier 2";"France";47.25;2014
+"Dalian University of Technology";"China";47.22;2014
+"Rensselaer Polytechnic Institute";"USA";47.2;2014
+"Paul Sabatier University - Toulouse III";"France";47.19;2014
+"Paris Descartes University";"France";47.18;2014
+"National Cheng Kung University";"Taiwan";47.16;2014
+"University of Delaware";"USA";47.16;2014
+"Vrije Universiteit Brussel";"Belgium";47.14;2014
+"Johannes Gutenberg University of Mainz";"Germany";47.14;2014
+"Maastricht University";"Netherlands";47.11;2014
+"University of Düsseldorf";"Germany";47.05;2014
+"University of Dundee";"United Kingdom";47.04;2014
+"University of Tsukuba";"Japan";47.0;2014
+"Autonomous University of Barcelona";"Spain";46.99;2014
+"Florida State University";"USA";46.98;2014
+"University of Texas at San Antonio";"USA";46.95;2014
+"London School of Hygiene & Tropical Medicine";"United Kingdom";46.93;2014
+"Lehigh University";"USA";46.91;2014
+"University of Kentucky";"USA";46.9;2014
+"Thomas Jefferson University";"USA";46.89;2014
+"Drexel University";"USA";46.89;2014
+"Colorado State University - Fort Collins";"USA";46.88;2014
+"University of Leicester";"United Kingdom";46.87;2014
+"Durham University";"United Kingdom";46.87;2014
+"Oregon State University";"USA";46.82;2014
+"University of Florence";"Italy";46.8;2014
+"University of Cape Town";"South Africa";46.78;2014
+"University at Buffalo, The State University of New York";"USA";46.78;2014
+"University College Dublin";"Ireland";46.77;2014
+"University of Science and Technology of China";"China";46.75;2014
+"Virginia Polytechnic Institute and State University";"USA";46.72;2014
+"University of Naples Federico II";"Italy";46.67;2014
+"University of Auckland";"New Zealand";46.65;2014
+"University of Texas Health Science Center at Houston";"USA";46.64;2014
+"Delft University of Technology";"Netherlands";46.63;2014
+"University of Aberdeen";"United Kingdom";46.63;2014
+"Queen's University";"Canada";46.59;2014
+"University of Lisbon";"Portugal";46.59;2014
+"Hiroshima University";"Japan";46.59;2014
+"University of Waterloo";"Canada";46.58;2014
+"Okayama University";"Japan";46.57;2014
+"University of Ulm";"Germany";46.57;2014
+"Chulalongkorn University";"Thailand";46.55;2014
+"Dalhousie University";"Canada";46.52;2014
+"Saint Petersburg State University";"Russia";46.49;2014
+"Norwegian University of Science and Technology";"Norway";46.49;2014
+"University of Reading";"United Kingdom";46.49;2014
+"Wageningen University and Research Centre";"Netherlands";46.48;2014
+"Umeå University";"Sweden";46.44;2014
+"University of Porto";"Portugal";46.42;2014
+"Hong Kong University of Science and Technology";"Hong Kong";46.42;2014
+"Sun Yat-sen University";"China";46.42;2014
+"Medical College of Wisconsin";"USA";46.42;2014
+"City College of New York";"USA";46.41;2014
+"Hannover Medical School";"Germany";46.41;2014
+"Washington State University, Pullman";"USA";46.4;2014
+"Technical University of Berlin";"Germany";46.39;2014
+"University of South Carolina - Columbia";"USA";46.37;2014
+"Leipzig University";"Germany";46.36;2014
+"University of Stuttgart";"Germany";46.34;2014
+"University of Valencia";"Spain";46.34;2014
+"Linköping University";"Sweden";46.32;2014
+"University of Duisburg-Essen";"Germany";46.31;2014
+"Ruhr University Bochum";"Germany";46.31;2014
+"University of Bergen";"Norway";46.31;2014
+"London School of Economics";"United Kingdom";46.3;2014
+"Wesleyan University";"USA";46.3;2014
+"University of Pisa";"Italy";46.3;2014
+"Autonomous University of Madrid";"Spain";46.29;2014
+"Medical University of Vienna";"Austria";46.29;2014
+"Stellenbosch University";"South Africa";46.26;2014
+"Medical University of South Carolina";"USA";46.25;2014
+"Charles University in Prague";"Czech Republic";46.23;2014
+"Kyungpook National University";"South Korea";46.23;2014
+"University of Science, Malaysia";"Malaysia";46.23;2014
+"University of Liège";"Belgium";46.21;2014
+"University of Hull";"United Kingdom";46.21;2014
+"Northeastern University";"USA";46.2;2014
+"Kansas State University";"USA";46.2;2014
+"University of Vermont";"USA";46.2;2014
+"Rush University";"USA";46.18;2014
+"University of Louisville";"USA";46.15;2014
+"University of St Andrews";"United Kingdom";46.15;2014
+"University of Warwick";"United Kingdom";46.13;2014
+"University of Rome Tor Vergata";"Italy";46.13;2014
+"University of Innsbruck";"Austria";46.12;2014
+"Darmstadt University of Technology";"Germany";46.11;2014
+"Indian Institute of Technology Delhi";"India";46.1;2014
+"Federal University of Rio de Janeiro";"Brazil";46.08;2014
+"University of Antwerp";"Belgium";46.08;2014
+"National and Kapodistrian University of Athens";"Greece";46.06;2014
+"Boston College";"USA";46.06;2014
+"Vita-Salute San Raffaele University";"Italy";46.06;2014
+"Gwangju Institute of Science and Technology";"South Korea";46.02;2014
+"University of Nebraska–Lincoln";"USA";46.02;2014
+"University of York";"United Kingdom";45.99;2014
+"National Autonomous University of Mexico";"Mexico";45.99;2014
+"University of Regensburg";"Germany";45.98;2014
+"Yokohama National University";"Japan";45.97;2014
+"University of Adelaide";"Australia";45.97;2014
+"University of Genoa";"Italy";45.95;2014
+"Queen's University Belfast";"United Kingdom";45.95;2014
+"University of Marburg";"Germany";45.92;2014
+"University of Pavia";"Italy";45.92;2014
+"St George's, University of London";"United Kingdom";45.91;2014
+"University of Oregon";"USA";45.89;2014
+"University of Navarra";"Spain";45.88;2014
+"San Diego State University";"USA";45.88;2014
+"Nankai University";"China";45.87;2014
+"University of East Anglia";"United Kingdom";45.87;2014
+"University of Nebraska Medical Center";"USA";45.83;2014
+"University of Southern Denmark";"Denmark";45.83;2014
+"Eindhoven University of Technology";"Netherlands";45.82;2014
+"Xiamen University";"China";45.8;2014
+"University of Otago";"New Zealand";45.8;2014
+"University of Santiago de Compostela";"Spain";45.79;2014
+"University of Exeter";"United Kingdom";45.79;2014
+"University of Jena";"Germany";45.79;2014
+"University of Perugia";"Italy";45.78;2014
+"Justus Liebig University Giessen";"Germany";45.78;2014
+"College of William and Mary";"USA";45.77;2014
+"Ben-Gurion University of the Negev";"Israel";45.76;2014
+"Saint Louis University";"USA";45.75;2014
+"Colorado School of Mines";"USA";45.74;2014
+"Oklahoma State University–Stillwater";"USA";45.74;2014
+"University of Guelph";"Canada";45.74;2014
+"University of Trieste";"Italy";45.73;2014
+"University of Verona";"Italy";45.71;2014
+"University at Albany, SUNY";"USA";45.7;2014
+"Tongji University";"China";45.7;2014
+"Eötvös Loránd University";"Hungary";45.69;2014
+"University of Alabama - Tuscaloosa";"USA";45.69;2014
+"University of Eastern Finland";"Finland";45.69;2014
+"Ewha Womans University";"South Korea";45.67;2014
+"City University of Hong Kong";"Hong Kong";45.67;2014
+"Tokyo Medical and Dental University";"Japan";45.67;2014
+"University of Victoria";"Canada";45.66;2014
+"University of Buenos Aires";"Argentina";45.66;2014
+"University of Texas Medical Branch at Galveston";"USA";45.66;2014
+"Kyung Hee University";"South Korea";45.66;2014
+"Hong Kong Polytechnic University";"Hong Kong";45.65;2014
+"Saarland University";"Germany";45.65;2014
+"Scuola Normale Superiore di Pisa";"Italy";45.63;2014
+"University of Seville";"Spain";45.63;2014
+"Beijing Normal University";"China";45.61;2014
+"Chiba University";"Japan";45.6;2014
+"University of Ferrara";"Italy";45.6;2014
+"University of Bari Aldo Moro";"Italy";45.6;2014
+"Polytechnic University of Milan";"Italy";45.59;2014
+"Temple University";"USA";45.59;2014
+"University of Turku";"Finland";45.58;2014
+"Aalto University";"Finland";45.58;2014
+"Simon Fraser University";"Canada";45.58;2014
+"Tianjin University";"China";45.57;2014
+"Chalmers University of Technology";"Sweden";45.57;2014
+"Middle East Technical University";"Turkey";45.57;2014
+"Cranfield University";"United Kingdom";45.56;2014
+"York University";"Canada";45.55;2014
+"Xi'an Jiaotong University";"China";45.55;2014
+"Chonnam National University";"South Korea";45.55;2014
+"University of Central Florida";"USA";45.55;2014
+"University of Lorraine";"France";45.55;2014
+"University of Bordeaux II";"France";45.54;2014
+"University of New Hampshire";"USA";45.53;2014
+"Versailles Saint-Quentin-en-Yvelines University";"France";45.53;2014
+"Chonbuk National University";"South Korea";45.51;2014
+"Kumamoto University";"Japan";45.51;2014
+"Huazhong University of Science and Technology";"China";45.5;2014
+"Brunel University";"United Kingdom";45.5;2014
+"Polytechnic University of Catalonia";"Spain";45.49;2014
+"National Chiao Tung University";"Taiwan";45.49;2014
+"Southeast University";"China";45.49;2014
+"Tokyo University of Science";"Japan";45.48;2014
+"Catholic University of the Sacred Heart";"Italy";45.47;2014
+"Brigham Young University";"USA";45.47;2014
+"Technical University of Madrid";"Spain";45.47;2014
+"Nagasaki University";"Japan";45.46;2014
+"National Tsing Hua University";"Taiwan";45.46;2014
+"University of Warsaw";"Poland";45.45;2014
+"King Saud University";"Saudi Arabia";45.45;2014
+"University of Bath";"United Kingdom";45.44;2014
+"Concordia University";"Canada";45.44;2014
+"Georgia Regents University";"USA";45.43;2014
+"Niigata University";"Japan";45.43;2014
+"University of Oulu";"Finland";45.43;2014
+"Pompeu Fabra University";"Spain";45.43;2014
+"Vienna University of Technology";"Austria";45.43;2014
+"Sogang University";"South Korea";45.43;2014
+"Gyeongsang National University";"South Korea";45.43;2014
+"University of Tampere";"Finland";45.41;2014
+"University of Milan - Bicocca";"Italy";45.41;2014
+"University of Bordeaux I";"France";45.41;2014
+"Swedish University of Agricultural Sciences";"Sweden";45.4;2014
+"George Mason University";"USA";45.4;2014
+"Jilin University";"China";45.4;2014
+"University of Delhi";"India";45.4;2014
+"University of Campinas";"Brazil";45.39;2014
+"Wuhan University";"China";45.39;2014
+"West Virginia University";"USA";45.39;2014
+"Pusan National University";"South Korea";45.38;2014
+"University of Mississippi - Oxford Campus";"USA";45.38;2014
+"University of Arkansas for Medical Sciences";"USA";45.37;2014
+"Miami University";"USA";45.37;2014
+"University of Tokushima";"Japan";45.36;2014
+"University of Twente";"Netherlands";45.36;2014
+"Loyola University Chicago";"USA";45.36;2014
+"Ajou University";"South Korea";45.35;2014
+"Syracuse University";"USA";45.34;2014
+"Lancaster University";"United Kingdom";45.33;2014
+"Pontifical Catholic University of Chile";"Chile";45.33;2014
+"University of Chile";"Chile";45.29;2014
+"Innsbruck Medical University";"Austria";45.29;2014
+"University of Granada";"Spain";45.29;2014
+"Kanazawa University";"Japan";45.29;2014
+"University of Parma";"Italy";45.28;2014
+"University of Siena";"Italy";45.27;2014
+"Shandong University";"China";45.27;2014
+"Technical University of Dortmund";"Germany";45.26;2014
+"University of KwaZulu-Natal";"South Africa";45.26;2014
+"University of Nevada, Reno";"USA";45.26;2014
+"Yokohama City University";"Japan";45.26;2014
+"École normale supérieure de Lyon";"France";45.25;2014
+"University College Cork";"Ireland";45.25;2014
+"Ohio University";"USA";45.25;2014
+"Central South University";"China";45.24;2014
+"University of Modena and Reggio Emilia";"Italy";45.23;2014
+"New Mexico State University";"USA";45.23;2014
+"University of Konstanz";"Germany";45.22;2014
+"University of Hawaii at Manoa";"USA";45.22;2014
+"University of Nebraska Omaha";"USA";45.22;2014
+"Shinshu University";"Japan";45.22;2014
+"University of Strathclyde";"United Kingdom";45.22;2014
+"Baylor University";"USA";45.21;2014
+"Polytechnic University of Valencia";"Spain";45.21;2014
+"Harbin Institute of Technology";"China";45.21;2014
+"University of Rennes 1";"France";45.2;2014
+"University of Arkansas - Fayetteville";"USA";45.2;2014
+"Aristotle University of Thessaloniki";"Greece";45.2;2014
+"Jagiellonian University";"Poland";45.19;2014
+"Texas Tech University (TTU)";"USA";45.19;2014
+"University of Rostock";"Germany";45.19;2014
+"University of Akron";"USA";45.18;2014
+"University of Saskatchewan";"Canada";45.18;2014
+"Juntendo University";"Japan";45.18;2014
+"University of Wyoming";"USA";45.18;2014
+"Macquarie University";"Australia";45.18;2014
+"University of Canterbury";"New Zealand";45.17;2014
+"University of Denver";"USA";45.16;2014
+"Illinois Institute of Technology";"USA";45.15;2014
+"Creighton University";"USA";45.15;2014
+"Bielefeld University";"Germany";45.15;2014
+"University of Malaya";"Malaysia";45.15;2014
+"University of Ulsan";"South Korea";45.14;2014
+"City University London";"United Kingdom";45.14;2014
+"Grenoble Institute of Technology";"France";45.14;2014
+"Federal University of Minas Gerais";"Brazil";45.14;2014
+"University of Hanover";"Germany";45.14;2014
+"South China University of Technology";"China";45.12;2014
+"University of Surrey";"United Kingdom";45.12;2014
+"Otto-von-Guericke University Magdeburg";"Germany";45.11;2014
+"Indian Institute of Science";"India";45.11;2014
+"Tokyo Metropolitan University";"Japan";45.11;2014
+"Bar-Ilan University";"Israel";45.11;2014
+"Mississippi State University";"USA";45.11;2014
+"University of Maryland, Baltimore County";"USA";45.1;2014
+"University of Wollongong";"Australia";45.1;2014
+"Flinders University";"Australia";45.1;2014
+"Martin Luther University of Halle-Wittenberg";"Germany";45.1;2014
+"Graduate University for Advanced Studies";"Japan";45.09;2014
+"Clemson University";"USA";45.09;2014
+"University of Brescia";"Italy";45.07;2014
+"Georgia State University";"USA";45.07;2014
+"Dongguk University";"South Korea";45.07;2014
+"University of Fribourg";"Switzerland";45.05;2014
+"Sichuan University";"China";45.05;2014
+"University of Iceland";"Iceland";45.05;2014
+"University of Sherbrooke";"Canada";45.05;2014
+"University of Graz";"Austria";45.04;2014
+"University of Málaga";"Spain";45.04;2014
+"University of Zaragoza";"Spain";45.04;2014
+"New York Medical College";"USA";45.04;2014
+"SUNY Downstate Medical Center";"USA";45.03;2014
+"École Centrale Paris";"France";45.03;2014
+"Utah State University";"USA";45.03;2014
+"University of Ljubljana";"Slovenia";45.02;2014
+"University of Montpellier 1";"France";45.02;2014
+"Victoria University of Wellington";"New Zealand";45.01;2014
+"East China University of Science and Technology";"China";45.01;2014
+"Konkuk University";"South Korea";45.01;2014
+"University of Potsdam";"Germany";45.01;2014
+"University of the Basque Country";"Spain";45.01;2014
+"University of Nice Sophia Antipolis";"France";45.01;2014
+"University of Udine";"Italy";45.01;2014
+"National Yang-Ming University";"Taiwan";45.01;2014
+"Indian Institute of Technology Bombay";"India";45.0;2014
+"University of Bayreuth";"Germany";44.99;2014
+"University of Wisconsin–Milwaukee";"USA";44.99;2014
+"University of Dayton";"USA";44.99;2014
+"Nihon University";"Japan";44.98;2014
+"Montana State University - Bozeman";"USA";44.98;2014
+"Royal Holloway, University of London";"United Kingdom";44.98;2014
+"Tokyo Women's Medical University";"Japan";44.98;2014
+"Panjab University";"India";44.97;2014
+"Tampere University of Technology";"Finland";44.97;2014
+"University of Coimbra";"Portugal";44.97;2014
+"University of Newcastle";"Australia";44.97;2014
+"Nara Institute of Science and Technology";"Japan";44.96;2014
+"Auburn University";"USA";44.96;2014
+"University of Bremen";"Germany";44.96;2014
+"Mahidol University";"Thailand";44.96;2014
+"University of Crete";"Greece";44.96;2014
+"Bangor University";"United Kingdom";44.95;2014
+"University of Aveiro";"Portugal";44.95;2014
+"University of Palermo";"Italy";44.94;2014
+"Nagoya City University";"Japan";44.94;2014
+"University of Tartu";"Estonia";44.94;2014
+"University of Savoy";"France";44.94;2014
+"University of Tromsø - The Arctic University of Norway";"Norway";44.94;2014
+"University of Missouri–Kansas City";"USA";44.93;2014
+"Beihang University";"China";44.93;2014
+"American University of Beirut";"Lebanon";44.93;2014
+"University of Nantes";"France";44.93;2014
+"University of Essex";"United Kingdom";44.92;2014
+"University of Zagreb";"Croatia";44.92;2014
+"National Central University";"Taiwan";44.92;2014
+"University Lille 1: Sciences and Technologies";"France";44.92;2014
+"University of Catania";"Italy";44.91;2014
+"National Polytechnic Institute of Toulouse";"France";44.91;2014
+"Indian Institute of Technology Kanpur";"India";44.91;2014
+"Kagoshima University";"Japan";44.9;2014
+"Lanzhou University";"China";44.9;2014
+"James Cook University";"Australia";44.9;2014
+"Shizuoka University";"Japan";44.89;2014
+"Indian Institute of Technology Kharagpur";"India";44.89;2014
+"Second University of Naples";"Italy";44.89;2014
+"Indian Institute of Technology Madras";"India";44.89;2014
+"Plymouth University";"United Kingdom";44.88;2014
+"International School for Advanced Studies";"Italy";44.87;2014
+"Polytechnic University of Turin";"Italy";44.85;2014
+"University of Oviedo";"Spain";44.85;2014
+"Ehime University";"Japan";44.85;2014
+"University of Ioannina";"Greece";44.85;2014
+"University of Cagliari";"Italy";44.85;2014
+"Tottori University";"Japan";44.85;2014
+"Federal University of Rio Grande do Sul";"Brazil";44.85;2014
+"Kent State University";"USA";44.85;2014
+"University of Los Andes (Colombia)";"Colombia";44.85;2014
+"Hunan University";"China";44.84;2014
+"Tokai University";"Japan";44.84;2014
+"LSU Health Sciences Center New Orleans";"USA";44.84;2014
+"Southern Illinois University Carbondale";"USA";44.83;2014
+"Tata Institute of Fundamental Research";"India";44.83;2014
+"Aalborg University";"Denmark";44.83;2014
+"Osaka Prefecture University";"Japan";44.83;2014
+"Chang Gung University";"Taiwan";44.82;2014
+"Northern Illinois University";"USA";44.82;2014
+"University of Trento";"Italy";44.82;2014
+"Semmelweis University";"Hungary";44.82;2014
+"University of Science and Technology Beijing";"China";44.82;2014
+"National University of Ireland, Galway";"Ireland";44.82;2014
+"Dankook University";"South Korea";44.82;2014
+"Istanbul University";"Turkey";44.81;2014
+"Tokyo University of Agriculture and Technology";"Japan";44.81;2014
+"University of Montana - Missoula";"USA";44.81;2014
+"Queensland University of Technology";"Australia";44.81;2014
+"Binghamton University";"USA";44.8;2014
+"Université de Namur";"Belgium";44.8;2014
+"University of Tasmania";"Australia";44.8;2014
+"University of Pretoria";"South Africa";44.8;2014
+"Central China Normal University";"China";44.79;2014
+"Indian Institute of Technology Roorkee";"India";44.79;2014
+"Curtin University";"Australia";44.79;2014
+"Deakin University";"Australia";44.79;2014
+"Tilburg University";"Netherlands";44.78;2014
+"Inha University";"South Korea";44.78;2014
+"University of New Orleans";"USA";44.78;2014
+"Paris-Est Créteil Val-de-Marne University";"France";44.77;2014
+"University of L'Aquila";"Italy";44.77;2014
+"Chungnam National University";"South Korea";44.77;2014
+"University of Salamanca";"Spain";44.77;2014
+"University of Alaska Fairbanks";"USA";44.77;2014
+"University of Poitiers";"France";44.77;2014
+"Albany Medical College";"USA";44.76;2014
+"Birkbeck, University of London";"United Kingdom";44.76;2014
+"Griffith University";"Australia";44.76;2014
+"Federal University of São Paulo";"Brazil";44.76;2014
+"Carleton University";"Canada";44.75;2014
+"Massey University";"New Zealand";44.75;2014
+"Catholic University of Korea";"South Korea";44.74;2014
+"Open University (UK)";"United Kingdom";44.74;2014
+"University of Patras";"Greece";44.74;2014
+"Universidade Nova de Lisboa";"Portugal";44.74;2014
+"Texas A&M Health Science Center";"USA";44.74;2014
+"Braunschweig University of Technology";"Germany";44.74;2014
+"National Chung Hsing University";"Taiwan";44.74;2014
+"La Trobe University";"Australia";44.73;2014
+"Missouri University of Science and Technology";"USA";44.73;2014
+"University of Idaho";"USA";44.73;2014
+"Louisiana Tech University";"USA";44.73;2014
+"University of Portsmouth";"United Kingdom";44.73;2014
+"University of La Laguna";"Spain";44.73;2014
+"Florida International University";"USA";44.73;2014
+"Medical University of Graz";"Austria";44.72;2014
+"Howard University";"USA";44.72;2014
+"University of Hertfordshire";"United Kingdom";44.72;2014
+"State University of New York Upstate Medical University";"USA";44.72;2014
+"Royal College of Surgeons in Ireland";"Ireland";44.72;2014
+"National Technical University of Athens";"Greece";44.72;2014
+"University of Windsor";"Canada";44.72;2014
+"Rovira i Virgili University";"Spain";44.71;2014
+"University of Burgundy";"France";44.71;2014
+"Gunma University";"Japan";44.71;2014
+"AGH University of Science and Technology";"Poland";44.71;2014
+"Gifu University";"Japan";44.71;2014
+"Hacettepe University";"Turkey";44.71;2014
+"Örebro University";"Sweden";44.7;2014
+"Memorial University of Newfoundland";"Canada";44.7;2014
+"Kindai University";"Japan";44.7;2014
+"University of Rhode Island";"USA";44.7;2014
+"University of Alicante";"Spain";44.7;2014
+"New Jersey Institute of Technology";"USA";44.69;2014
+"Lille 2 University of Health and Law";"France";44.69;2014
+"Keele University";"United Kingdom";44.69;2014
+"University of Jyväskylä";"Finland";44.69;2014
+"Rochester Institute of Technology";"USA";44.69;2014
+"Sapporo Medical University";"Japan";44.69;2014
+"Banaras Hindu University";"India";44.69;2014
+"King Abdullah University of Science and Technology";"Saudi Arabia";44.69;2014
+"Northeast Normal University";"China";44.69;2014
+"Portland State University";"USA";44.68;2014
+"University of Québec at Montreal";"Canada";44.68;2014
+"East China Normal University";"China";44.68;2014
+"University of Debrecen";"Hungary";44.68;2014
+"Loma Linda University";"USA";44.68;2014
+"Old Dominion University";"USA";44.68;2014
+"University of Insubria";"Italy";44.67;2014
+"University of Nevada, Las Vegas";"USA";44.67;2014
+"Hong Kong Baptist University";"Hong Kong";44.67;2014
+"University of Minho";"Portugal";44.67;2014
+"University of Messina";"Italy";44.67;2014
+"University of Texas at Arlington";"USA";44.67;2014
+"University François Rabelais, Tours";"France";44.67;2014
+"UNESP, São Paulo State University";"Brazil";44.67;2014
+"Toho University";"Japan";44.67;2014
+"Beijing University of Chemical Technology";"China";44.67;2014
+"Rutgers, The State University of New Jersey - Newark";"USA";44.66;2014
+"Johannes Kepler University of Linz";"Austria";44.66;2014
+"Warsaw University of Technology";"Poland";44.66;2014
+"University of Paris 13";"France";44.66;2014
+"University of Toyama";"Japan";44.66;2014
+"University of Toledo";"USA";44.66;2014
+"University of Vigo";"Spain";44.66;2014
+"University of Kent";"United Kingdom";44.65;2014
+"Jichi Medical University";"Japan";44.65;2014
+"Roma Tre University";"Italy";44.65;2014
+"Chung Yuan Christian University";"Taiwan";44.65;2014
+"University of Haifa";"Israel";44.65;2014
+"Åbo Akademi University";"Finland";44.65;2014
+"Swansea University";"United Kingdom";44.65;2014
+"China Agricultural University";"China";44.64;2014
+"Marche Polytechnic University";"Italy";44.64;2014
+"University of Maine, Orono";"USA";44.64;2014
+"Heriot-Watt University";"United Kingdom";44.64;2014
+"Marquette University";"USA";44.64;2014
+"Loughborough University";"United Kingdom";44.63;2014
+"Kaiserslautern University of Technology";"Germany";44.63;2014
+"Aston University";"United Kingdom";44.63;2014
+"University of Girona";"Spain";44.63;2014
+"Hasselt University";"Belgium";44.63;2014
+"Nanjing University of Science and Technology";"China";44.63;2014
+"University of Natural Resources and Life Sciences, Vienna";"Austria";44.63;2014
+"University of Szeged";"Hungary";44.63;2014
+"Soochow University (Suzhou)";"China";44.63;2014
+"University of the Balearic Islands";"Spain";44.63;2014
+"Fuzhou University";"China";44.63;2014
+"University of Memphis";"USA";44.62;2014
+"San Francisco State University";"USA";44.62;2014
+"East Carolina University";"USA";44.62;2014
+"University of Augsburg";"Germany";44.62;2014
+"University of Missouri–St. Louis";"USA";44.62;2014
+"Kyoto Prefectural University of Medicine";"Japan";44.62;2014
+"Shanghai University";"China";44.62;2014
+"University of South Australia";"Australia";44.62;2014
+"Liverpool John Moores University";"United Kingdom";44.61;2014
+"Graz University of Technology";"Austria";44.61;2014
+"Kitasato University";"Japan";44.61;2014
+"University of North Carolina at Charlotte";"USA";44.61;2014
+"G. d'Annunzio University, Chieti-Pescara";"Italy";44.61;2014
+"University of Cantabria";"Spain";44.61;2014
+"Miguel Hernández University of Elche";"Spain";44.61;2014
+"Donghua University";"China";44.61;2014
+"Comenius University in Bratislava";"Slovak Republic";44.6;2014
+"University of Alabama in Huntsville";"USA";44.6;2014
+"Mie University";"Japan";44.6;2014
+"University of Stirling";"United Kingdom";44.6;2014
+"Hunter College";"USA";44.6;2014
+"Swinburne University of Technology";"Australia";44.6;2014
+"University of Ulster";"United Kingdom";44.6;2014
+"University of Évry Val d'Essonne";"France";44.59;2014
+"University of Salerno";"Italy";44.59;2014
+"National University of La Plata";"Argentina";44.59;2014
+"Masaryk University";"Czech Republic";44.59;2014
+"Yamaguchi University";"Japan";44.59;2014
+"University of Yamanashi";"Japan";44.59;2014
+"Showa University";"Japan";44.59;2014
+"North Dakota State University - Main Campus";"USA";44.59;2014
+"University of North Texas, Denton";"USA";44.59;2014
+"University of Mississippi Medical Center";"USA";44.58;2014
+"University of Tehran";"Iran";44.58;2014
+"Paul Valéry University, Montpellier III";"France";44.58;2014
+"Wuhan University of Technology";"China";44.58;2014
+"University of Hyogo";"Japan";44.58;2014
+"The Catholic University of America";"USA";44.58;2014
+"University of Neuchâtel";"Switzerland";44.58;2014
+"National Polytechnic Institute";"Mexico";44.58;2014
+"Jikei University School of Medicine";"Japan";44.58;2014
+"University of Valladolid";"Spain";44.57;2014
+"University of Calabria";"Italy";44.57;2014
+"University of Lübeck";"Germany";44.57;2014
+"Kurume University";"Japan";44.57;2014
+"Peking Union Medical College";"China";44.57;2014
+"Yamagata University";"Japan";44.57;2014
+"University of Córdoba (Spain)";"Spain";44.57;2014
+"University of Mons";"Belgium";44.57;2014
+"Saga University";"Japan";44.57;2014
+"Clarkson University";"USA";44.57;2014
+"University of South Alabama";"USA";44.56;2014
+"Inje University";"South Korea";44.56;2014
+"University of Caen Lower Normandy";"France";44.56;2014
+"University of Castilla–La Mancha";"Spain";44.56;2014
+"Czech Technical University in Prague";"Czech Republic";44.56;2014
+"Saitama Medical University";"Japan";44.56;2014
+"Istanbul Technical University";"Turkey";44.56;2014
+"Kaohsiung Medical University";"Taiwan";44.56;2014
+"University of Electro-Communications";"Japan";44.56;2014
+"Yeungnam University";"South Korea";44.55;2014
+"Jawaharlal Nehru Centre for Advanced Scientific Research";"India";44.55;2014
+"Putra University, Malaysia";"Malaysia";44.55;2014
+"Institut national des sciences Appliquées de Lyon";"France";44.55;2014
+"University of Perpignan Via Domitia";"France";44.55;2014
+"University of Miyazaki";"Japan";44.55;2014
+"Second Military Medical University";"China";44.55;2014
+"Northern Arizona University";"USA";44.55;2014
+"École Polytechnique de Montréal";"Canada";44.55;2014
+"University of Salento";"Italy";44.54;2014
+"Fukuoka University";"Japan";44.54;2014
+"Nagoya Institute of Technology";"Japan";44.54;2014
+"Ankara University";"Turkey";44.54;2014
+"Blaise Pascal University";"France";44.54;2014
+"University of Electronic Science and Technology of China";"China";44.54;2014
+"National Sun Yat-sen University";"Taiwan";44.54;2014
+"University of Rouen";"France";44.54;2014
+"Bowling Green State University";"USA";44.54;2014
+"Norwegian University of Life Sciences";"Norway";44.54;2014
+"University of Picardie Jules Verne";"France";44.54;2014
+"Michigan Technological University";"USA";44.53;2014
+"University of Concepción";"Chile";44.53;2014
+"China Medical University (Taiwan)";"Taiwan";44.53;2014
+"University of Hohenheim";"Germany";44.53;2014
+"Aberystwyth University";"United Kingdom";44.53;2014
+"Wilfrid Laurier University";"Canada";44.53;2014
+"Cairo University";"Egypt";44.52;2014
+"University of Murcia";"Spain";44.52;2014
+"Palacký University, Olomouc";"Czech Republic";44.52;2014
+"Taipei Medical University";"Taiwan";44.52;2014
+"University of Bradford";"United Kingdom";44.52;2014
+"King Fahd University of Petroleum and Minerals";"Saudi Arabia";44.52;2014
+"Ege University";"Turkey";44.52;2014
+"University of Belgrade";"Serbia";44.51;2014
+"University of Eastern Piedmont Amedeo Avogadro""""";"Italy";44.51;2014
+"Budapest University of Technology and Economics";"Hungary";44.51;2014
+"University of Salzburg";"Austria";44.51;2014
+"University of Massachusetts Lowell";"USA";44.51;2014
+"Jaume I University";"Spain";44.5;2014
+"Chongqing University";"China";44.5;2014
+"Beijing Institute of Technology";"China";44.5;2014
+"Manchester Metropolitan University";"United Kingdom";44.5;2014
+"Zhengzhou University";"China";44.49;2014
+"Dublin City University";"Ireland";44.49;2014
+"National University of Ireland, Maynooth";"Ireland";44.49;2014
+"Kangwon National University";"South Korea";44.49;2014
+"Royal Veterinary College, University of London";"United Kingdom";44.49;2014
+"Wright State University - Dayton";"USA";44.49;2014
+"Capital Medical University";"China";44.48;2014
+"University of Brighton";"United Kingdom";44.48;2014
+"Sofia University";"Bulgaria";44.48;2014
+"University of Regina";"Canada";44.48;2014
+"Magna Græcia University of Catanzaro";"Italy";44.48;2014
+"Chungbuk National University";"South Korea";44.47;2014
+"Kōchi University";"Japan";44.47;2014
+"University of New Brunswick";"Canada";44.47;2014
+"Sejong University";"South Korea";44.47;2014
+"Sharif University of Technology";"Iran";44.47;2014
+"Chung-Ang University";"South Korea";44.47;2014
+"Queens College, City University of New York";"USA";44.46;2014
+"Murdoch University";"Australia";44.46;2014
+"Chosun University";"South Korea";44.46;2014
+"Vilnius University";"Lithuania";44.46;2014
+"University of Maribor";"Slovenia";44.46;2014
+"Ritsumeikan University";"Japan";44.46;2014
+"University of Sassari";"Italy";44.46;2014
+"Nanjing Normal University";"China";44.45;2014
+"University of Franche-Comté";"France";44.45;2014
+"University of Texas at El Paso";"USA";44.45;2014
+"Rio de Janeiro State University";"Brazil";44.45;2014
+"Jinan University";"China";44.45;2014
+"University of Massachusetts Boston";"USA";44.45;2014
+"University of Alcalá";"Spain";44.45;2014
+"Tehran University of Medical Sciences";"Iran";44.45;2014
+"University of the Ryukyus";"Japan";44.45;2014
+"University of Angers";"France";44.45;2014
+"Fluminense Federal University";"Brazil";44.45;2014
+"Florida Institute of Technology";"USA";44.44;2014
+"Trent University";"Canada";44.44;2014
+"National Chung Cheng University";"Taiwan";44.44;2014
+"Bilkent University";"Turkey";44.44;2014
+"National Taiwan Normal University";"Taiwan";44.44;2014
+"Saitama University";"Japan";44.44;2014
+"RMIT University";"Australia";44.44;2014
+"Hamamatsu University School of Medicine";"Japan";44.44;2014
+"University of Greifswald";"Germany";44.44;2014
+"University of Pécs";"Hungary";44.44;2014
+"University of Fukui";"Japan";44.44;2014
+"Oakland University";"USA";44.44;2014
+"Nanjing University of Technology";"China";44.44;2014
+"University of Technology, Sydney";"Australia";44.43;2014
+"University of North Carolina at Greensboro";"USA";44.43;2014
+"All India Institute of Medical Sciences, New Delhi";"India";44.43;2014
+"Kyoto Institute of Technology";"Japan";44.43;2014
+"Ocean University of China";"China";44.43;2014
+"Chiang Mai University";"Thailand";44.43;2014
+"University of Camerino";"Italy";44.43;2014
+"Hirosaki University";"Japan";44.43;2014
+"University of North Dakota";"USA";44.43;2014
+"University of Extremadura";"Spain";44.42;2014
+"Teikyo University";"Japan";44.42;2014
+"Jiangnan University";"China";44.42;2014
+"Adam Mickiewicz University in Poznań";"Poland";44.42;2014
+"University of Waikato";"New Zealand";44.42;2014
+"University of Veterinary Medicine Vienna";"Austria";44.42;2014
+"University of Cádiz";"Spain";44.42;2014
+"Florida Atlantic University";"USA";44.42;2014
+"Huazhong Agricultural University";"China";44.41;2014
+"Brock University";"Canada";44.41;2014
+"University of Lleida";"Spain";44.41;2014
+"Shanghai Normal University";"China";44.41;2014
+"Jean Monnet University";"France";44.41;2014
+"Shimane University";"Japan";44.41;2014
+"University of Orléans";"France";44.41;2014
+"University of Siegen";"Germany";44.41;2014
+"Makerere University";"Uganda";44.4;2014
+"University of Wales, Trinity Saint David";"United Kingdom";44.4;2014
+"National Taiwan University of Science and Technology";"Taiwan";44.4;2014
+"University of Brasília";"Brazil";44.4;2014
+"University of Western Brittany";"France";44.4;2014
+"Nanjing Agricultural University";"China";44.4;2014
+"National University of Córdoba";"Argentina";44.39;2014
+"Federal University of Santa Catarina";"Brazil";44.39;2014
+"National Taiwan Ocean University";"Taiwan";44.39;2014
+"Gazi University";"Turkey";44.39;2014
+"National University of Colombia";"Colombia";44.39;2014
+"University of Jaén";"Spain";44.39;2014
+"Boğaziçi University";"Turkey";44.39;2014
+"Jadavpur University";"India";44.39;2014
+"Pukyong National University";"South Korea";44.39;2014
+"University of Western Sydney";"Australia";44.39;2014
+"Northeastern University (China)";"China";44.39;2014
+"University of Mannheim";"Germany";44.39;2014
+"University of Osnabrück";"Germany";44.38;2014
+"Charles Darwin University";"Australia";44.38;2014
+"University of Hyderabad";"India";44.38;2014
+"Northwest University (China)";"China";44.38;2014
+"University of Southern Mississippi";"USA";44.38;2014
+"University of Wrocław";"Poland";44.38;2014
+"Carlos III University of Madrid";"Spain";44.38;2014
+"Novosibirsk State University";"Russia";44.38;2014
+"Nanjing Medical University";"China";44.38;2014
+"Nicolaus Copernicus University in Toruń";"Poland";44.38;2014
+"Federal University of Santa Maria";"Brazil";44.37;2014
+"Chemnitz University of Technology";"Germany";44.37;2014
+"Southwest University";"China";44.37;2014
+"Wrocław University of Technology";"Poland";44.37;2014
+"University of California, Merced";"USA";44.37;2014
+"United Arab Emirates University";"United Arab Emirates";44.36;2014
+"Federal University of São Carlos";"Brazil";44.36;2014
+"University of Thessaly";"Greece";44.36;2014
+"University of Basilicata";"Italy";44.36;2014
+"Feng Chia University";"Taiwan";44.36;2014
+"Federal University of Paraná";"Brazil";44.36;2014
+"University of Almería";"Spain";44.36;2014
+"Hallym University";"South Korea";44.36;2014
+"Fourth Military Medical University";"China";44.36;2014
+"University of the Republic (Uruguay)";"Uruguay";44.35;2014
+"Dokuz Eylül University";"Turkey";44.35;2014
+"Nanjing University of Aeronautics and Astronautics";"China";44.35;2014
+"Public University of Navarre";"Spain";44.35;2014
+"University of A Coruña";"Spain";44.35;2014
+"Isfahan University of Technology";"Iran";44.34;2014
+"University of New England (Australia)";"Australia";44.34;2014
+"Federal University of Pernambuco";"Brazil";44.34;2014
+"Jiangsu University";"China";44.34;2014
+"Third Military Medical University";"China";44.34;2014
+"South China Normal University";"China";44.33;2014
+"University of Limerick";"Ireland";44.33;2014
+"Xiangtan University";"China";44.33;2014
+"Yangzhou University";"China";44.33;2014
+"Northwestern Polytechnical University";"China";44.33;2014
+"University of Reims Champagne-Ardenne";"France";44.33;2014
+"Ibaraki University";"Japan";44.33;2014
+"Chung Shan Medical University";"Taiwan";44.32;2014
+"Alexandria University";"Egypt";44.32;2014
+"Yuan Ze University";"Taiwan";44.32;2014
+"University of Cyprus";"Cyprus";44.32;2014
+"University of Silesia";"Poland";44.32;2014
+"Southern Medical University";"China";44.32;2014
+"Shiraz University";"Iran";44.32;2014
+"University of Bucharest";"Romania";44.32;2014
+"Mansoura University";"Egypt";44.31;2014
+"Amirkabir University of Technology";"Iran";44.31;2014
+"Beijing Jiaotong University";"China";44.31;2014
+"University of Valenciennes and Hainaut-Cambresis";"France";44.31;2014
+"University of the Algarve";"Portugal";44.31;2014
+"University of Chemistry and Technology, Prague";"Czech Republic";44.31;2014
+"Federal University of Ceará";"Brazil";44.31;2014
+"Ain Shams University";"Egypt";44.31;2014
+"University of Oldenburg";"Germany";44.31;2014
+"Federal University of Bahia";"Brazil";44.31;2014
+"Hunan Normal University";"China";44.3;2014
+"Western Michigan University";"USA";44.3;2014
+"University of Seoul";"South Korea";44.3;2014
+"Federico Santa María Technical University";"Chile";44.3;2014
+"Ryerson University";"Canada";44.3;2014
+"South China Agricultural University";"China";44.3;2014
+"Fu Jen Catholic University";"Taiwan";44.3;2014
+"China Pharmaceutical University";"China";44.3;2014
+"Tarbiat Modares University";"Iran";44.29;2014
+"University of Puerto Rico at Mayagüez";"Puerto Rico";44.29;2014
+"National University of Rosario";"Argentina";44.29;2014
+"University of Pau and Pays de l'Adour";"France";44.29;2014
+"Xidian University";"China";44.29;2014
+"Zhejiang University of Technology";"China";44.28;2014
+"China Medical University (PRC)";"China";44.28;2014
+"Federal University of ABC";"Brazil";44.28;2014
+"King Juan Carlos University";"Spain";44.27;2014
+"Beijing University of Technology";"China";44.27;2014
+"Guangxi University";"China";44.27;2014
+"Northwest A&F University";"China";44.27;2014
+"Shanxi University";"China";44.26;2014
+"Tamkang University";"Taiwan";44.26;2014
+"Harbin Medical University";"China";44.26;2014
+"Zhejiang Normal University";"China";44.26;2014
+"King Abdulaziz University";"Saudi Arabia";44.26;2014
+"Iran University of Science and Technology";"Iran";44.25;2014
+"I-Shou University";"Taiwan";44.24;2014
+"University of Maine (Le Mans)";"France";44.24;2014
+"National Dong Hwa University";"Taiwan";44.24;2014
+"National Taipei University of Technology";"Taiwan";44.24;2014
+"Shaanxi Normal University";"China";44.23;2014
+"National University of Defense Technology";"China";44.21;2014
+"Yanbian University";"China";44.18;2014
+"Harvard University";"USA";100.0;2015
+"Stanford University";"USA";98.66;2015
+"Massachusetts Institute of Technology";"USA";97.54;2015
+"University of Cambridge";"United Kingdom";96.81;2015
+"University of Oxford";"United Kingdom";96.46;2015
+"Columbia University";"USA";96.14;2015
+"University of California, Berkeley";"USA";92.25;2015
+"University of Chicago";"USA";90.7;2015
+"Princeton University";"USA";89.42;2015
+"Cornell University";"USA";86.79;2015
+"Yale University";"USA";86.61;2015
+"California Institute of Technology";"USA";84.4;2015
+"University of Tokyo";"Japan";78.23;2015
+"University of Pennsylvania";"USA";77.6;2015
+"University of California, Los Angeles";"USA";76.91;2015
+"Johns Hopkins University";"USA";71.6;2015
+"Kyoto University";"Japan";68.6;2015
+"New York University";"USA";68.39;2015
+"University of Michigan, Ann Arbor";"USA";68.36;2015
+"Swiss Federal Institute of Technology in Zurich";"Switzerland";66.93;2015
+"University of California, San Diego";"USA";66.59;2015
+"Northwestern University";"USA";66.56;2015
+"Hebrew University of Jerusalem";"Israel";65.71;2015
+"Seoul National University";"South Korea";64.82;2015
+"University of Wisconsin–Madison";"USA";64.51;2015
+"University of California, San Francisco";"USA";63.69;2015
+"University College London";"United Kingdom";62.27;2015
+"Duke University";"USA";61.55;2015
+"Rockefeller University";"USA";61.28;2015
+"University of Texas at Austin";"USA";61.14;2015
+"University of Washington - Seattle";"USA";60.61;2015
+"University of Toronto";"Canada";60.04;2015
+"University of Illinois at Urbana–Champaign";"USA";59.94;2015
+"Keio University";"Japan";59.84;2015
+"Imperial College London";"United Kingdom";59.61;2015
+"École Polytechnique";"France";59.2;2015
+"École normale supérieure - Paris";"France";58.8;2015
+"Waseda University";"Japan";58.17;2015
+"Weizmann Institute of Science";"Israel";57.17;2015
+"University of North Carolina at Chapel Hill";"USA";57.09;2015
+"University of Virginia";"USA";56.73;2015
+"McGill University";"Canada";56.49;2015
+"Purdue University, West Lafayette";"USA";56.39;2015
+"Dartmouth College";"USA";56.35;2015
+"Osaka University";"Japan";56.03;2015
+"University of Pittsburgh - Pittsburgh Campus";"USA";55.63;2015
+"Pennsylvania State University, University Park";"USA";55.54;2015
+"University of Minnesota, Twin Cities";"USA";55.51;2015
+"Ohio State University, Columbus";"USA";55.39;2015
+"Rutgers University-New Brunswick";"USA";55.23;2015
+"University of Southern California";"USA";55.12;2015
+"Washington University in St. Louis";"USA";55.03;2015
+"University of California, Davis";"USA";54.85;2015
+"University of Colorado Boulder";"USA";54.62;2015
+"University of Edinburgh";"United Kingdom";54.39;2015
+"Peking University";"China";54.26;2015
+"National Taiwan University";"Taiwan";54.23;2015
+"University of Paris-Sud";"France";54.21;2015
+"Lomonosov Moscow State University";"Russia";54.19;2015
+"University of Florida";"USA";54.18;2015
+"Carnegie Mellon University";"USA";54.0;2015
+"University of British Columbia";"Canada";53.92;2015
+"Pierre-and-Marie-Curie University";"France";53.79;2015
+"University of California, Santa Barbara";"USA";53.63;2015
+"National University of Singapore";"Singapore";53.44;2015
+"Boston University";"USA";53.43;2015
+"University of Manchester";"United Kingdom";53.38;2015
+"University of Arizona";"USA";53.26;2015
+"Vanderbilt University";"USA";53.05;2015
+"University of Utah";"USA";52.89;2015
+"Karolinska Institute";"Sweden";52.79;2015
+"University of Maryland, College Park";"USA";52.72;2015
+"Tohoku University";"Japan";52.57;2015
+"University of Copenhagen";"Denmark";52.51;2015
+"University of Texas Southwestern Medical Center";"USA";52.5;2015
+"Ruprecht Karl University of Heidelberg";"Germany";52.32;2015
+"University of Notre Dame";"USA";52.27;2015
+"Tsinghua University";"China";52.21;2015
+"Ludwig Maximilian University of Munich";"Germany";52.16;2015
+"Georgia Institute of Technology";"USA";52.08;2015
+"University of Rochester";"USA";52.03;2015
+"Katholieke Universiteit Leuven";"Belgium";52.03;2015
+"Brown University";"USA";52.01;2015
+"Emory University";"USA";51.85;2015
+"Erasmus University Rotterdam";"Netherlands";51.78;2015
+"Tel Aviv University";"Israel";51.75;2015
+"Utrecht University";"Netherlands";51.74;2015
+"University of Sydney";"Australia";51.61;2015
+"University of California, Irvine";"USA";51.51;2015
+"University of Texas MD Anderson Cancer Center";"USA";51.51;2015
+"Swiss Federal Institute of Technology in Lausanne";"Switzerland";51.47;2015
+"University of Geneva";"Switzerland";51.46;2015
+"University of Melbourne";"Australia";51.34;2015
+"King's College London";"United Kingdom";51.31;2015
+"Tufts University";"USA";51.22;2015
+"University of Zurich";"Switzerland";51.14;2015
+"Arizona State University";"USA";51.13;2015
+"Yonsei University";"South Korea";51.02;2015
+"University of Oslo";"Norway";50.81;2015
+"Kyushu University";"Japan";50.6;2015
+"Technical University of Munich";"Germany";50.58;2015
+"Texas A&M University, College Station";"USA";50.43;2015
+"University of Queensland";"Australia";50.4;2015
+"Mines ParisTech";"France";50.34;2015
+"Case Western Reserve University";"USA";50.28;2015
+"Indiana University - Bloomington";"USA";50.26;2015
+"University of Alberta";"Canada";50.25;2015
+"Leiden University";"Netherlands";50.17;2015
+"Tokyo Institute of Technology";"Japan";50.13;2015
+"University of Groningen";"Netherlands";50.1;2015
+"University of Helsinki";"Finland";50.04;2015
+"Sapienza University of Rome";"Italy";49.97;2015
+"Georgetown University";"USA";49.92;2015
+"University of Amsterdam";"Netherlands";49.83;2015
+"Korea University";"South Korea";49.79;2015
+"University of Barcelona";"Spain";49.79;2015
+"Lund University";"Sweden";49.75;2015
+"Michigan State University";"USA";49.74;2015
+"Ghent University";"Belgium";49.73;2015
+"Rice University";"USA";49.73;2015
+"Baylor College of Medicine";"USA";49.7;2015
+"Aarhus University";"Denmark";49.65;2015
+"University of Bristol";"United Kingdom";49.59;2015
+"Uppsala University";"Sweden";49.57;2015
+"Nagoya University";"Japan";49.57;2015
+"Royal Institute of Technology";"Sweden";49.54;2015
+"University of Colorado Denver";"USA";49.48;2015
+"University of Glasgow";"United Kingdom";49.45;2015
+"VU University Amsterdam";"Netherlands";49.44;2015
+"University of New South Wales";"Australia";49.33;2015
+"Paris Diderot University - Paris 7";"France";49.33;2015
+"University of São Paulo";"Brazil";49.31;2015
+"Western University (The University of Western Ontario)";"Canada";49.31;2015
+"Radboud University Nijmegen";"Netherlands";49.3;2015
+"Nanyang Technological University";"Singapore";49.29;2015
+"Technion – Israel Institute of Technology";"Israel";49.12;2015
+"University of Miami";"USA";49.09;2015
+"Stony Brook University";"USA";49.09;2015
+"University of Texas at Dallas";"USA";49.05;2015
+"University of Nottingham";"United Kingdom";49.02;2015
+"University of Iowa";"USA";49.01;2015
+"Southern Methodist University";"USA";48.99;2015
+"Icahn School of Medicine at Mount Sinai";"USA";48.96;2015
+"Korea Advanced Institute of Science and Technology (KAIST)";"South Korea";48.95;2015
+"Monash University";"Australia";48.91;2015
+"University of Alabama at Birmingham";"USA";48.79;2015
+"Free University of Berlin";"Germany";48.78;2015
+"University of Southampton";"United Kingdom";48.77;2015
+"University of the Witwatersrand";"South Africa";48.75;2015
+"McMaster University";"Canada";48.74;2015
+"University of Montreal";"Canada";48.72;2015
+"University of Birmingham";"United Kingdom";48.7;2015
+"Humboldt University of Berlin";"Germany";48.64;2015
+"University of California, Santa Cruz";"USA";48.59;2015
+"Albert Ludwig University of Freiburg";"Germany";48.57;2015
+"University of Tübingen";"Germany";48.56;2015
+"University of Cincinnati";"USA";48.56;2015
+"University of Bonn";"Germany";48.54;2015
+"Wake Forest University";"USA";48.52;2015
+"University of Basel";"Switzerland";48.48;2015
+"University of Leeds";"United Kingdom";48.41;2015
+"University of Hamburg";"Germany";48.31;2015
+"Université libre de Bruxelles";"Belgium";48.28;2015
+"Indiana University-Purdue University Indianapolis";"USA";48.28;2015
+"Pohang University of Science and Technology";"South Korea";48.24;2015
+"Oregon Health & Science University";"USA";48.23;2015
+"University of Calgary";"Canada";48.23;2015
+"Stockholm University";"Sweden";48.23;2015
+"University of Padua";"Italy";48.17;2015
+"University of Hong Kong";"Hong Kong";48.15;2015
+"Yeshiva University";"USA";48.11;2015
+"University of Milan";"Italy";48.07;2015
+"University of Sheffield";"United Kingdom";48.07;2015
+"Technical University of Denmark";"Denmark";48.06;2015
+"University of Maryland, Baltimore";"USA";48.05;2015
+"Goethe University Frankfurt";"Germany";48.01;2015
+"University of Göttingen";"Germany";47.98;2015
+"Hokkaido University";"Japan";47.97;2015
+"Australian National University";"Australia";47.97;2015
+"Shanghai Jiao Tong University";"China";47.96;2015
+"University of New Mexico";"USA";47.95;2015
+"University of Strasbourg";"France";47.89;2015
+"University of Massachusetts Medical School";"USA";47.85;2015
+"University of Houston";"USA";47.83;2015
+"Trinity College, Dublin";"Ireland";47.73;2015
+"University of Lausanne";"Switzerland";47.73;2015
+"Iowa State University";"USA";47.71;2015
+"Joseph Fourier University";"France";47.71;2015
+"Wayne State University";"USA";47.67;2015
+"University of South Florida - Tampa";"USA";47.66;2015
+"Zhejiang University";"China";47.66;2015
+"Hanyang University";"South Korea";47.6;2015
+"University of Ottawa";"Canada";47.6;2015
+"University of Missouri–Columbia";"USA";47.59;2015
+"Fudan University";"China";47.56;2015
+"University of Kansas";"USA";47.52;2015
+"University of Cologne";"Germany";47.52;2015
+"University of Georgia";"USA";47.5;2015
+"University of Liverpool";"United Kingdom";47.49;2015
+"University of Bern";"Switzerland";47.49;2015
+"Cardiff University";"United Kingdom";47.46;2015
+"George Washington University";"USA";47.46;2015
+"University of Illinois at Chicago";"USA";47.39;2015
+"University of Erlangen-Nuremberg";"Germany";47.36;2015
+"University of Münster";"Germany";47.34;2015
+"Aix-Marseille University";"France";47.31;2015
+"Claude Bernard University Lyon 1";"France";47.31;2015
+"University of Bologna";"Italy";47.28;2015
+"Queen Mary University of London";"United Kingdom";47.25;2015
+"Dresden University of Technology";"Germany";47.25;2015
+"Sungkyunkwan University";"South Korea";47.19;2015
+"Newcastle University";"United Kingdom";47.17;2015
+"Karlsruhe Institute of Technology";"Germany";47.15;2015
+"University of California, Riverside";"USA";47.13;2015
+"University of Kiel";"Germany";47.11;2015
+"University of Western Australia";"Australia";47.1;2015
+"Paris Descartes University";"France";47.06;2015
+"University of Connecticut";"USA";47.06;2015
+"University of Massachusetts Amherst";"USA";47.05;2015
+"Chinese University of Hong Kong";"Hong Kong";47.05;2015
+"University of Turin";"Italy";47.04;2015
+"University of Manitoba";"Canada";47.04;2015
+"University of Vienna";"Austria";47.03;2015
+"University of Montpellier";"France";47.0;2015
+"Maastricht University";"Netherlands";47.0;2015
+"National Cheng Kung University";"Taiwan";46.97;2015
+"University of Tennessee, Knoxville";"USA";46.96;2015
+"Complutense University of Madrid";"Spain";46.96;2015
+"Laval University";"Canada";46.95;2015
+"RWTH Aachen University";"Germany";46.9;2015
+"Université catholique de Louvain";"Belgium";46.89;2015
+"North Carolina State University";"USA";46.89;2015
+"Johannes Gutenberg University of Mainz";"Germany";46.88;2015
+"University of Texas Health Science Center at San Antonio";"USA";46.88;2015
+"Julius-Maximilian's University of Würzburg";"Germany";46.85;2015
+"Paul Sabatier University - Toulouse III";"France";46.81;2015
+"University of Gothenburg";"Sweden";46.79;2015
+"University College Dublin";"Ireland";46.79;2015
+"University of Science and Technology of China";"China";46.73;2015
+"University of Leicester";"United Kingdom";46.72;2015
+"Autonomous University of Barcelona";"Spain";46.72;2015
+"University of Dundee";"United Kingdom";46.68;2015
+"Norwegian University of Science and Technology";"Norway";46.67;2015
+"Nanjing University";"China";46.61;2015
+"Okayama University";"Japan";46.59;2015
+"London School of Hygiene & Tropical Medicine";"United Kingdom";46.59;2015
+"University of Florence";"Italy";46.58;2015
+"University of Cape Town";"South Africa";46.58;2015
+"University of Texas Health Science Center at Houston";"USA";46.56;2015
+"Moscow Institute of Physics and Technology";"Russia";46.55;2015
+"University of Düsseldorf";"Germany";46.54;2015
+"Florida State University";"USA";46.53;2015
+"University of Sussex";"United Kingdom";46.49;2015
+"Thomas Jefferson University";"USA";46.47;2015
+"Delft University of Technology";"Netherlands";46.46;2015
+"Virginia Polytechnic Institute and State University";"USA";46.46;2015
+"University of Lisbon";"Portugal";46.43;2015
+"Drexel University";"USA";46.43;2015
+"Virginia Commonwealth University";"USA";46.43;2015
+"Oregon State University";"USA";46.42;2015
+"Durham University";"United Kingdom";46.42;2015
+"University of Tsukuba";"Japan";46.41;2015
+"University of Reading";"United Kingdom";46.4;2015
+"Lehigh University";"USA";46.4;2015
+"Medical University of Vienna";"Austria";46.39;2015
+"University of Auckland";"New Zealand";46.38;2015
+"University of Kentucky";"USA";46.37;2015
+"University of Naples Federico II";"Italy";46.36;2015
+"University of Waterloo";"Canada";46.34;2015
+"Charles University in Prague";"Czech Republic";46.32;2015
+"Colorado State University - Fort Collins";"USA";46.32;2015
+"Tulane University";"USA";46.31;2015
+"University at Buffalo, The State University of New York";"USA";46.3;2015
+"Brandeis University";"USA";46.29;2015
+"Northeastern University";"USA";46.29;2015
+"Wageningen University and Research Centre";"Netherlands";46.26;2015
+"Sun Yat-sen University";"China";46.25;2015
+"University of Ulm";"Germany";46.24;2015
+"London School of Economics";"United Kingdom";46.22;2015
+"Vrije Universiteit Brussel";"Belgium";46.21;2015
+"University of Delaware";"USA";46.21;2015
+"Rensselaer Polytechnic Institute";"USA";46.19;2015
+"University of Bergen";"Norway";46.18;2015
+"Queen's University";"Canada";46.18;2015
+"University of Aberdeen";"United Kingdom";46.17;2015
+"Dalhousie University";"Canada";46.17;2015
+"Umeå University";"Sweden";46.14;2015
+"University of Duisburg-Essen";"Germany";46.13;2015
+"City College of New York";"USA";46.12;2015
+"Hiroshima University";"Japan";46.12;2015
+"University of Texas at San Antonio";"USA";46.1;2015
+"Hannover Medical School";"Germany";46.07;2015
+"University of Warwick";"United Kingdom";46.05;2015
+"University of Valencia";"Spain";46.03;2015
+"University of Pisa";"Italy";46.03;2015
+"Ruhr University Bochum";"Germany";46.0;2015
+"Medical College of Wisconsin";"USA";45.97;2015
+"University of Louisville";"USA";45.97;2015
+"University of Bordeaux";"France";45.96;2015
+"University of South Carolina - Columbia";"USA";45.95;2015
+"National and Kapodistrian University of Athens";"Greece";45.94;2015
+"Leipzig University";"Germany";45.94;2015
+"Medical University of South Carolina";"USA";45.94;2015
+"Autonomous University of Madrid";"Spain";45.92;2015
+"Dalian University of Technology";"China";45.92;2015
+"Stellenbosch University";"South Africa";45.92;2015
+"Kyungpook National University";"South Korea";45.92;2015
+"University of Porto";"Portugal";45.91;2015
+"University of St Andrews";"United Kingdom";45.89;2015
+"Gwangju Institute of Science and Technology";"South Korea";45.88;2015
+"Chulalongkorn University";"Thailand";45.86;2015
+"University of Antwerp";"Belgium";45.84;2015
+"Xiamen University";"China";45.83;2015
+"University of Nebraska–Lincoln";"USA";45.8;2015
+"Nankai University";"China";45.8;2015
+"University of Stuttgart";"Germany";45.79;2015
+"University of Rome Tor Vergata";"Italy";45.79;2015
+"University of Regensburg";"Germany";45.79;2015
+"Hong Kong University of Science and Technology";"Hong Kong";45.77;2015
+"Kobe University";"Japan";45.74;2015
+"University of Liège";"Belgium";45.73;2015
+"Federal University of Rio de Janeiro";"Brazil";45.72;2015
+"Rush University";"USA";45.71;2015
+"University of Vermont";"USA";45.7;2015
+"University of York";"United Kingdom";45.69;2015
+"Boston College";"USA";45.65;2015
+"University of Pavia";"Italy";45.64;2015
+"University of Jena";"Germany";45.64;2015
+"Vita-Salute San Raffaele University";"Italy";45.61;2015
+"University of Genoa";"Italy";45.61;2015
+"Tianjin University";"China";45.61;2015
+"Louisiana State University - Baton Rouge";"USA";45.61;2015
+"University of Exeter";"United Kingdom";45.59;2015
+"National Autonomous University of Mexico";"Mexico";45.58;2015
+"University of Adelaide";"Australia";45.58;2015
+"University of East Anglia";"United Kingdom";45.58;2015
+"York University";"Canada";45.56;2015
+"University of Navarra";"Spain";45.56;2015
+"University of Oregon";"USA";45.55;2015
+"St George's, University of London";"United Kingdom";45.55;2015
+"Indian Institute of Technology Delhi";"India";45.54;2015
+"University of Trieste";"Italy";45.54;2015
+"Queen's University Belfast";"United Kingdom";45.53;2015
+"University of Perugia";"Italy";45.53;2015
+"Technical University of Berlin";"Germany";45.52;2015
+"University of Marburg";"Germany";45.51;2015
+"University of Innsbruck";"Austria";45.51;2015
+"Eindhoven University of Technology";"Netherlands";45.51;2015
+"Ben-Gurion University of the Negev";"Israel";45.49;2015
+"University of Oklahoma - Norman Campus";"USA";45.49;2015
+"Wesleyan University";"USA";45.48;2015
+"University of Victoria";"Canada";45.48;2015
+"Kansas State University";"USA";45.47;2015
+"Hong Kong Polytechnic University";"Hong Kong";45.47;2015
+"Linköping University";"Sweden";45.47;2015
+"University of Southern Denmark";"Denmark";45.46;2015
+"University of Otago";"New Zealand";45.44;2015
+"Justus Liebig University Giessen";"Germany";45.43;2015
+"University of New Hampshire";"USA";45.42;2015
+"College of William and Mary";"USA";45.42;2015
+"San Diego State University";"USA";45.41;2015
+"Simon Fraser University";"Canada";45.4;2015
+"University of Santiago de Compostela";"Spain";45.4;2015
+"Saint Louis University";"USA";45.39;2015
+"Colorado School of Mines";"USA";45.39;2015
+"University of Eastern Finland";"Finland";45.37;2015
+"University of Buenos Aires";"Argentina";45.37;2015
+"University of Guelph";"Canada";45.36;2015
+"University of Ferrara";"Italy";45.36;2015
+"Polytechnic University of Catalonia";"Spain";45.36;2015
+"Versailles Saint-Quentin-en-Yvelines University";"France";45.36;2015
+"Saarland University";"Germany";45.33;2015
+"City University of Hong Kong";"Hong Kong";45.33;2015
+"Darmstadt University of Technology";"Germany";45.32;2015
+"Pompeu Fabra University";"Spain";45.31;2015
+"Pontifical Catholic University of Chile";"Chile";45.31;2015
+"University of Bari Aldo Moro";"Italy";45.31;2015
+"University of Texas Medical Branch at Galveston";"USA";45.3;2015
+"University of Delhi";"India";45.3;2015
+"Washington State University, Pullman";"USA";45.29;2015
+"Temple University";"USA";45.29;2015
+"University of Milan - Bicocca";"Italy";45.28;2015
+"University of Turku";"Finland";45.27;2015
+"Chonnam National University";"South Korea";45.27;2015
+"University of Lorraine";"France";45.25;2015
+"National Chiao Tung University";"Taiwan";45.24;2015
+"Catholic University of the Sacred Heart";"Italy";45.22;2015
+"University at Albany, SUNY";"USA";45.22;2015
+"Xi'an Jiaotong University";"China";45.21;2015
+"Ewha Womans University";"South Korea";45.2;2015
+"Jilin University";"China";45.2;2015
+"Tokyo Medical and Dental University";"Japan";45.2;2015
+"Scuola Normale Superiore di Pisa";"Italy";45.2;2015
+"University of Central Florida";"USA";45.18;2015
+"Innsbruck Medical University";"Austria";45.18;2015
+"Beijing Normal University";"China";45.17;2015
+"Polytechnic University of Milan";"Italy";45.17;2015
+"University of Seville";"Spain";45.17;2015
+"University of Nebraska Medical Center";"USA";45.16;2015
+"Huazhong University of Science and Technology";"China";45.16;2015
+"Kyung Hee University";"South Korea";45.16;2015
+"Chalmers University of Technology";"Sweden";45.16;2015
+"Brigham Young University";"USA";45.15;2015
+"University of Campinas";"Brazil";45.14;2015
+"University of Bath";"United Kingdom";45.14;2015
+"Saint Petersburg State University";"Russia";45.14;2015
+"National Tsing Hua University";"Taiwan";45.14;2015
+"University of Twente";"Netherlands";45.14;2015
+"University of Alabama - Tuscaloosa";"USA";45.14;2015
+"Harbin Institute of Technology";"China";45.14;2015
+"University of Verona";"Italy";45.13;2015
+"Oklahoma State University–Stillwater";"USA";45.13;2015
+"Shandong University";"China";45.13;2015
+"George Mason University";"USA";45.13;2015
+"Wuhan University";"China";45.13;2015
+"Swedish University of Agricultural Sciences";"Sweden";45.12;2015
+"Concordia University";"Canada";45.12;2015
+"Chiba University";"Japan";45.11;2015
+"Kumamoto University";"Japan";45.11;2015
+"Tongji University";"China";45.1;2015
+"Aalto University";"Finland";45.1;2015
+"Chonbuk National University";"South Korea";45.09;2015
+"Peking Union Medical College";"China";45.09;2015
+"Georgia Regents University";"USA";45.09;2015
+"University of Chile";"Chile";45.08;2015
+"Lancaster University";"United Kingdom";45.08;2015
+"Vienna University of Technology";"Austria";45.08;2015
+"University of Denver";"USA";45.08;2015
+"University of Arkansas for Medical Sciences";"USA";45.08;2015
+"Grenoble Institute of Technology";"France";45.06;2015
+"University of Granada";"Spain";45.06;2015
+"University of Modena and Reggio Emilia";"Italy";45.04;2015
+"Ajou University";"South Korea";45.04;2015
+"Gyeongsang National University";"South Korea";45.04;2015
+"Technical University of Madrid";"Spain";45.03;2015
+"University College Cork";"Ireland";45.03;2015
+"Loyola University Chicago";"USA";45.03;2015
+"Central South University";"China";45.02;2015
+"South China University of Technology";"China";45.02;2015
+"Polytechnic University of Valencia";"Spain";45.02;2015
+"West Virginia University";"USA";45.02;2015
+"University of Tampere";"Finland";45.02;2015
+"Southeast University";"China";45.01;2015
+"Miami University";"USA";45.0;2015
+"University of Dayton";"USA";44.99;2015
+"University of Siena";"Italy";44.98;2015
+"University of Oulu";"Finland";44.96;2015
+"Indian Institute of Science";"India";44.96;2015
+"Macquarie University";"Australia";44.96;2015
+"University of Rostock";"Germany";44.96;2015
+"Jagiellonian University";"Poland";44.94;2015
+"Pusan National University";"South Korea";44.94;2015
+"University of Strathclyde";"United Kingdom";44.94;2015
+"University of Nevada, Reno";"USA";44.93;2015
+"University of Saskatchewan";"Canada";44.92;2015
+"University of Parma";"Italy";44.92;2015
+"Kanazawa University";"Japan";44.92;2015
+"Eötvös Loránd University";"Hungary";44.92;2015
+"Aristotle University of Thessaloniki";"Greece";44.92;2015
+"Ohio University";"USA";44.91;2015
+"University of Iceland";"Iceland";44.91;2015
+"University of Warsaw";"Poland";44.91;2015
+"Syracuse University";"USA";44.91;2015
+"Bielefeld University";"Germany";44.91;2015
+"Juntendo University";"Japan";44.9;2015
+"University of Wyoming";"USA";44.89;2015
+"University of Wollongong";"Australia";44.88;2015
+"Niigata University";"Japan";44.88;2015
+"Texas Tech University (TTU)";"USA";44.87;2015
+"Middle East Technical University";"Turkey";44.87;2015
+"École normale supérieure de Lyon";"France";44.87;2015
+"Brunel University";"United Kingdom";44.86;2015
+"Nihon University";"Japan";44.86;2015
+"Osaka City University";"Japan";44.86;2015
+"University of Rennes 1";"France";44.86;2015
+"University of Oklahoma Health Sciences Center";"USA";44.86;2015
+"East China University of Science and Technology";"China";44.86;2015
+"University of KwaZulu-Natal";"South Africa";44.85;2015
+"Sichuan University";"China";44.85;2015
+"Illinois Institute of Technology";"USA";44.85;2015
+"Tokyo University of Science";"Japan";44.84;2015
+"University of Science, Malaysia";"Malaysia";44.84;2015
+"Clemson University";"USA";44.83;2015
+"University of Zaragoza";"Spain";44.83;2015
+"University of the Basque Country";"Spain";44.83;2015
+"Nagasaki University";"Japan";44.82;2015
+"Technical University of Dortmund";"Germany";44.82;2015
+"University of Hawaii at Manoa";"USA";44.82;2015
+"University of Nebraska Omaha";"USA";44.81;2015
+"University of Konstanz";"Germany";44.81;2015
+"Panjab University";"India";44.8;2015
+"University of Hanover";"Germany";44.8;2015
+"University of Maryland, Baltimore County";"USA";44.8;2015
+"University of Newcastle";"Australia";44.79;2015
+"University of Ulsan";"South Korea";44.79;2015
+"Renmin University of China";"China";44.79;2015
+"Martin Luther University of Halle-Wittenberg";"Germany";44.79;2015
+"University of Malaya";"Malaysia";44.79;2015
+"University of Savoy";"France";44.79;2015
+"University of Udine";"Italy";44.78;2015
+"Tokyo Metropolitan University";"Japan";44.78;2015
+"University of Sherbrooke";"Canada";44.77;2015
+"University of Brescia";"Italy";44.77;2015
+"University of Ljubljana";"Slovenia";44.77;2015
+"University of Nice Sophia Antipolis";"France";44.75;2015
+"University of Hull";"United Kingdom";44.75;2015
+"University of Coimbra";"Portugal";44.75;2015
+"Creighton University";"USA";44.75;2015
+"Georgia State University";"USA";44.74;2015
+"University of Wisconsin–Milwaukee";"USA";44.74;2015
+"Catholic University of Korea";"South Korea";44.74;2015
+"University of Tokushima";"Japan";44.73;2015
+"Yokohama City University";"Japan";44.73;2015
+"Lanzhou University";"China";44.72;2015
+"University of Crete";"Greece";44.72;2015
+"SUNY Downstate Medical Center";"USA";44.72;2015
+"University of Potsdam";"Germany";44.72;2015
+"Yokohama National University";"Japan";44.72;2015
+"New Mexico State University";"USA";44.71;2015
+"University of Bayreuth";"Germany";44.71;2015
+"Bar-Ilan University";"Israel";44.71;2015
+"University of Mississippi - Oxford Campus";"USA";44.7;2015
+"University of Tasmania";"Australia";44.7;2015
+"Graduate University for Advanced Studies";"Japan";44.7;2015
+"University of Surrey";"United Kingdom";44.7;2015
+"Federal University of Minas Gerais";"Brazil";44.7;2015
+"University of Tromsø - The Arctic University of Norway";"Norway";44.7;2015
+"University of Palermo";"Italy";44.7;2015
+"Shinshu University";"Japan";44.7;2015
+"University of Science and Technology Beijing";"China";44.7;2015
+"University of Catania";"Italy";44.69;2015
+"Mahidol University";"Thailand";44.69;2015
+"University of Canterbury";"New Zealand";44.68;2015
+"Indian Institute of Technology Madras";"India";44.68;2015
+"University of Bremen";"Germany";44.68;2015
+"Otto-von-Guericke University Magdeburg";"Germany";44.68;2015
+"University of Tartu";"Estonia";44.68;2015
+"University of Windsor";"Canada";44.68;2015
+"University of Nantes";"France";44.67;2015
+"Royal Holloway, University of London";"United Kingdom";44.67;2015
+"James Cook University";"Australia";44.67;2015
+"National Yang-Ming University";"Taiwan";44.65;2015
+"University of Akron";"USA";44.65;2015
+"National Chung Hsing University";"Taiwan";44.65;2015
+"City University London";"United Kingdom";44.64;2015
+"New York Medical College";"USA";44.64;2015
+"Nara Institute of Science and Technology";"Japan";44.63;2015
+"École Centrale Paris";"France";44.63;2015
+"Auburn University";"USA";44.63;2015
+"University of Arkansas - Fayetteville";"USA";44.62;2015
+"University of Zagreb";"Croatia";44.62;2015
+"University of Lübeck";"Germany";44.62;2015
+"Hunan University";"China";44.62;2015
+"University of Missouri–Kansas City";"USA";44.61;2015
+"Tokyo Women's Medical University";"Japan";44.61;2015
+"Montana State University - Bozeman";"USA";44.61;2015
+"University of Aveiro";"Portugal";44.61;2015
+"National University of Ireland, Galway";"Ireland";44.61;2015
+"University of Oviedo";"Spain";44.61;2015
+"Dongguk University";"South Korea";44.61;2015
+"University of Trento";"Italy";44.61;2015
+"University Lille 1: Sciences and Technologies";"France";44.6;2015
+"Chang Gung University";"Taiwan";44.6;2015
+"National Central University";"Taiwan";44.6;2015
+"Aalborg University";"Denmark";44.59;2015
+"Utah State University";"USA";44.59;2015
+"Baylor University";"USA";44.59;2015
+"Bangor University";"United Kingdom";44.59;2015
+"King Saud University";"Saudi Arabia";44.59;2015
+"University of Cagliari";"Italy";44.59;2015
+"Kent State University";"USA";44.58;2015
+"Central China Normal University";"China";44.58;2015
+"University of Fribourg";"Switzerland";44.58;2015
+"Medical University of Graz";"Austria";44.58;2015
+"Second University of Naples";"Italy";44.57;2015
+"International School for Advanced Studies";"Italy";44.57;2015
+"Tampere University of Technology";"Finland";44.56;2015
+"Inha University";"South Korea";44.56;2015
+"Deakin University";"Australia";44.56;2015
+"National Polytechnic Institute of Toulouse";"France";44.56;2015
+"Sogang University";"South Korea";44.56;2015
+"University of Ioannina";"Greece";44.55;2015
+"Federal University of Rio Grande do Sul";"Brazil";44.55;2015
+"University of Graz";"Austria";44.54;2015
+"University of Montana - Missoula";"USA";44.54;2015
+"East China Normal University";"China";44.54;2015
+"Plymouth University";"United Kingdom";44.54;2015
+"Victoria University of Wellington";"New Zealand";44.54;2015
+"Federal University of São Paulo";"Brazil";44.53;2015
+"Southern Illinois University Carbondale";"USA";44.53;2015
+"University of Alaska Fairbanks";"USA";44.53;2015
+"University of Toledo";"USA";44.53;2015
+"Carleton University";"Canada";44.53;2015
+"Cranfield University";"United Kingdom";44.52;2015
+"Curtin University";"Australia";44.52;2015
+"Indian Institute of Technology Bombay";"India";44.52;2015
+"University of Portsmouth";"United Kingdom";44.52;2015
+"Osaka Prefecture University";"Japan";44.52;2015
+"Nagoya City University";"Japan";44.52;2015
+"LSU Health Sciences Center New Orleans";"USA";44.52;2015
+"Tata Institute of Fundamental Research";"India";44.51;2015
+"Konkuk University";"South Korea";44.51;2015
+"University of La Laguna";"Spain";44.51;2015
+"University of Hertfordshire";"United Kingdom";44.51;2015
+"Florida International University";"USA";44.5;2015
+"University of Rhode Island";"USA";44.5;2015
+"Mississippi State University";"USA";44.5;2015
+"Gunma University";"Japan";44.5;2015
+"University of New Orleans";"USA";44.5;2015
+"Putra University, Malaysia";"Malaysia";44.49;2015
+"Memorial University of Newfoundland";"Canada";44.49;2015
+"Universidade Nova de Lisboa";"Portugal";44.49;2015
+"Griffith University";"Australia";44.49;2015
+"Indian Institute of Technology Kharagpur";"India";44.49;2015
+"Soochow University (Suzhou)";"China";44.49;2015
+"Texas A&M Health Science Center";"USA";44.49;2015
+"Semmelweis University";"Hungary";44.48;2015
+"Lille 2 University of Health and Law";"France";44.48;2015
+"Kagoshima University";"Japan";44.48;2015
+"Flinders University";"Australia";44.48;2015
+"Queensland University of Technology";"Australia";44.48;2015
+"Tokai University";"Japan";44.48;2015
+"Istanbul University";"Turkey";44.48;2015
+"Tokyo University of Agriculture and Technology";"Japan";44.47;2015
+"Louisiana Tech University";"USA";44.47;2015
+"University of Texas at Arlington";"USA";44.47;2015
+"China Agricultural University";"China";44.47;2015
+"Chungnam National University";"South Korea";44.47;2015
+"University of Minho";"Portugal";44.46;2015
+"University of Eastern Piedmont Amedeo Avogadro""""";"Italy";44.46;2015
+"Open University (UK)";"United Kingdom";44.46;2015
+"University of Essex";"United Kingdom";44.45;2015
+"Paris-Est Créteil Val-de-Marne University";"France";44.45;2015
+"Hacettepe University";"Turkey";44.45;2015
+"State University of New York Upstate Medical University";"USA";44.45;2015
+"Braunschweig University of Technology";"Germany";44.44;2015
+"University of Salamanca";"Spain";44.44;2015
+"Indian Institute of Technology Roorkee";"India";44.44;2015
+"Örebro University";"Sweden";44.44;2015
+"Northeast Normal University";"China";44.44;2015
+"University of Patras";"Greece";44.44;2015
+"Beijing University of Chemical Technology";"China";44.44;2015
+"Northern Illinois University";"USA";44.44;2015
+"Rovira i Virgili University";"Spain";44.44;2015
+"La Trobe University";"Australia";44.44;2015
+"Warsaw University of Technology";"Poland";44.43;2015
+"Binghamton University";"USA";44.43;2015
+"Shizuoka University";"Japan";44.43;2015
+"Hong Kong Baptist University";"Hong Kong";44.43;2015
+"Albany Medical College";"USA";44.43;2015
+"Ehime University";"Japan";44.43;2015
+"University of Los Andes (Colombia)";"Colombia";44.43;2015
+"Polytechnic University of Turin";"Italy";44.43;2015
+"University of Burgundy";"France";44.42;2015
+"University of Idaho";"USA";44.42;2015
+"Old Dominion University";"USA";44.42;2015
+"Yamaguchi University";"Japan";44.42;2015
+"Massey University";"New Zealand";44.42;2015
+"Donghua University";"China";44.41;2015
+"University of the Balearic Islands";"Spain";44.41;2015
+"Portland State University";"USA";44.41;2015
+"Marche Polytechnic University";"Italy";44.41;2015
+"University of Québec at Montreal";"Canada";44.41;2015
+"UNESP, São Paulo State University";"Brazil";44.41;2015
+"Loma Linda University";"USA";44.41;2015
+"University of Toyama";"Japan";44.41;2015
+"University of Debrecen";"Hungary";44.4;2015
+"University of Maine, Orono";"USA";44.4;2015
+"Graz University of Technology";"Austria";44.4;2015
+"Gifu University";"Japan";44.4;2015
+"University of Jyväskylä";"Finland";44.4;2015
+"University of Paris 13";"France";44.4;2015
+"University of Girona";"Spain";44.4;2015
+"Keele University";"United Kingdom";44.4;2015
+"University of Poitiers";"France";44.39;2015
+"University of Insubria";"Italy";44.39;2015
+"Wuhan University of Technology";"China";44.39;2015
+"University of Pretoria";"South Africa";44.39;2015
+"Banaras Hindu University";"India";44.39;2015
+"University of L'Aquila";"Italy";44.38;2015
+"University of Alicante";"Spain";44.38;2015
+"American University of Beirut";"Lebanon";44.38;2015
+"University of Ulster";"United Kingdom";44.38;2015
+"Shanghai University";"China";44.38;2015
+"Comenius University in Bratislava";"Slovak Republic";44.38;2015
+"University of Vigo";"Spain";44.38;2015
+"University of Nevada, Las Vegas";"USA";44.38;2015
+"Swinburne University of Technology";"Australia";44.38;2015
+"Tilburg University";"Netherlands";44.37;2015
+"University of Messina";"Italy";44.37;2015
+"Kaiserslautern University of Technology";"Germany";44.37;2015
+"University of Kent";"United Kingdom";44.37;2015
+"University of Málaga";"Spain";44.37;2015
+"Loughborough University";"United Kingdom";44.37;2015
+"National Technical University of Athens";"Greece";44.37;2015
+"Liverpool John Moores University";"United Kingdom";44.37;2015
+"Sharif University of Technology";"Iran";44.37;2015
+"Birkbeck, University of London";"United Kingdom";44.37;2015
+"University François Rabelais, Tours";"France";44.37;2015
+"University of Haifa";"Israel";44.36;2015
+"Roma Tre University";"Italy";44.36;2015
+"Masaryk University";"Czech Republic";44.36;2015
+"University of Salerno";"Italy";44.36;2015
+"King Abdullah University of Science and Technology";"Saudi Arabia";44.36;2015
+"Beihang University";"China";44.35;2015
+"Fuzhou University";"China";44.35;2015
+"Heriot-Watt University";"United Kingdom";44.35;2015
+"China Medical University (Taiwan)";"Taiwan";44.35;2015
+"University of Cantabria";"Spain";44.35;2015
+"Rochester Institute of Technology";"USA";44.35;2015
+"Royal College of Surgeons in Ireland";"Ireland";44.35;2015
+"San Francisco State University";"USA";44.35;2015
+"Sapporo Medical University";"Japan";44.35;2015
+"Indian Institute of Technology Kanpur";"India";44.34;2015
+"Johannes Kepler University of Linz";"Austria";44.34;2015
+"Czech Technical University in Prague";"Czech Republic";44.34;2015
+"Marquette University";"USA";44.34;2015
+"Missouri University of Science and Technology";"USA";44.34;2015
+"Howard University";"USA";44.33;2015
+"Aston University";"United Kingdom";44.33;2015
+"École normale supérieure de Cachan";"France";44.33;2015
+"Jichi Medical University";"Japan";44.33;2015
+"Rutgers, The State University of New Jersey - Newark";"USA";44.33;2015
+"Palacký University, Olomouc";"Czech Republic";44.33;2015
+"Ankara University";"Turkey";44.33;2015
+"University of Belgrade";"Serbia";44.33;2015
+"Toho University";"Japan";44.33;2015
+"Kyoto Prefectural University of Medicine";"Japan";44.33;2015
+"Swansea University";"United Kingdom";44.32;2015
+"Université de Namur";"Belgium";44.32;2015
+"University of Szeged";"Hungary";44.32;2015
+"Kitasato University";"Japan";44.32;2015
+"Hasselt University";"Belgium";44.32;2015
+"University of Córdoba (Spain)";"Spain";44.32;2015
+"Åbo Akademi University";"Finland";44.32;2015
+"Tottori University";"Japan";44.32;2015
+"Kindai University";"Japan";44.32;2015
+"University of Castilla–La Mancha";"Spain";44.31;2015
+"University of Augsburg";"Germany";44.31;2015
+"Paul Valéry University, Montpellier III";"France";44.31;2015
+"University of Mons";"Belgium";44.31;2015
+"Istanbul Technical University";"Turkey";44.31;2015
+"University of Natural Resources and Life Sciences, Vienna";"Austria";44.31;2015
+"National University of La Plata";"Argentina";44.31;2015
+"University of Calabria";"Italy";44.31;2015
+"University of Memphis";"USA";44.3;2015
+"G. d'Annunzio University, Chieti-Pescara";"Italy";44.3;2015
+"University of Missouri–St. Louis";"USA";44.3;2015
+"Beijing Institute of Technology";"China";44.3;2015
+"University of Évry Val d'Essonne";"France";44.3;2015
+"University of South Australia";"Australia";44.3;2015
+"University of Alabama in Huntsville";"USA";44.3;2015
+"University of Salzburg";"Austria";44.3;2015
+"University of Mississippi Medical Center";"USA";44.29;2015
+"National Research Nuclear University MEPhI";"Russia";44.29;2015
+"Chung-Ang University";"South Korea";44.29;2015
+"Kaohsiung Medical University";"Taiwan";44.29;2015
+"University of Neuchâtel";"Switzerland";44.29;2015
+"University of Yamanashi";"Japan";44.29;2015
+"Yamagata University";"Japan";44.29;2015
+"New Jersey Institute of Technology";"USA";44.28;2015
+"East Carolina University";"USA";44.28;2015
+"University of Hyogo";"Japan";44.28;2015
+"University of Picardie Jules Verne";"France";44.28;2015
+"University of Salento";"Italy";44.28;2015
+"Northern Arizona University";"USA";44.28;2015
+"Miguel Hernández University of Elche";"Spain";44.28;2015
+"University of Tehran";"Iran";44.28;2015
+"Blaise Pascal University";"France";44.28;2015
+"Yeungnam University";"South Korea";44.27;2015
+"Kurume University";"Japan";44.27;2015
+"Institut national des sciences Appliquées de Lyon";"France";44.27;2015
+"Saga University";"Japan";44.27;2015
+"Chongqing University";"China";44.27;2015
+"Jikei University School of Medicine";"Japan";44.27;2015
+"Second Military Medical University";"China";44.27;2015
+"Jawaharlal Nehru Centre for Advanced Scientific Research";"India";44.27;2015
+"University of North Texas, Denton";"USA";44.27;2015
+"Ege University";"Turkey";44.27;2015
+"Mie University";"Japan";44.27;2015
+"École Polytechnique de Montréal";"Canada";44.27;2015
+"AGH University of Science and Technology";"Poland";44.26;2015
+"University of Electronic Science and Technology of China";"China";44.26;2015
+"University of Stirling";"United Kingdom";44.26;2015
+"University of Greifswald";"Germany";44.26;2015
+"National Polytechnic Institute";"Mexico";44.26;2015
+"Jacobs University Bremen";"Germany";44.26;2015
+"Capital Medical University";"China";44.26;2015
+"Norwegian University of Life Sciences";"Norway";44.26;2015
+"Michigan Technological University";"USA";44.25;2015
+"Vilnius University";"Lithuania";44.25;2015
+"North Dakota State University - Main Campus";"USA";44.25;2015
+"University of Hohenheim";"Germany";44.25;2015
+"University of North Carolina at Charlotte";"USA";44.25;2015
+"Zhengzhou University";"China";44.25;2015
+"Cairo University";"Egypt";44.25;2015
+"University of Caen Lower Normandy";"France";44.25;2015
+"Saitama Medical University";"Japan";44.25;2015
+"University of Murcia";"Spain";44.24;2015
+"Showa University";"Japan";44.24;2015
+"University of Oldenburg";"Germany";44.24;2015
+"Magna Græcia University of Catanzaro";"Italy";44.24;2015
+"National Sun Yat-sen University";"Taiwan";44.24;2015
+"Nanjing University of Science and Technology";"China";44.24;2015
+"University of Concepción";"Chile";44.23;2015
+"Chungbuk National University";"South Korea";44.23;2015
+"Taipei Medical University";"Taiwan";44.23;2015
+"Jaume I University";"Spain";44.23;2015
+"Bowling Green State University";"USA";44.23;2015
+"Nanjing University of Technology";"China";44.22;2015
+"University of New England (Australia)";"Australia";44.22;2015
+"Kangwon National University";"South Korea";44.22;2015
+"Inje University";"South Korea";44.22;2015
+"Aberystwyth University";"United Kingdom";44.22;2015
+"University of Technology, Sydney";"Australia";44.22;2015
+"University of Franche-Comté";"France";44.22;2015
+"University of Sassari";"Italy";44.21;2015
+"Chiang Mai University";"Thailand";44.21;2015
+"Budapest University of Technology and Economics";"Hungary";44.21;2015
+"University of Maribor";"Slovenia";44.21;2015
+"University of Bradford";"United Kingdom";44.21;2015
+"University of Perpignan Via Domitia";"France";44.21;2015
+"Florida Institute of Technology";"USA";44.21;2015
+"University of Brighton";"United Kingdom";44.21;2015
+"University of Massachusetts Boston";"USA";44.21;2015
+"Rio de Janeiro State University";"Brazil";44.21;2015
+"Nagoya Institute of Technology";"Japan";44.2;2015
+"Jiangnan University";"China";44.2;2015
+"Murdoch University";"Australia";44.2;2015
+"University of Wales, Trinity Saint David";"United Kingdom";44.2;2015
+"University of Rouen";"France";44.2;2015
+"The Catholic University of America";"USA";44.2;2015
+"Wright State University - Dayton";"USA";44.2;2015
+"Dankook University";"South Korea";44.2;2015
+"Clarkson University";"USA";44.19;2015
+"University of Regina";"Canada";44.19;2015
+"Boğaziçi University";"Turkey";44.19;2015
+"Kōchi University";"Japan";44.19;2015
+"University of Miyazaki";"Japan";44.19;2015
+"University of Electro-Communications";"Japan";44.19;2015
+"University of Valladolid";"Spain";44.19;2015
+"Bilkent University";"Turkey";44.19;2015
+"Dublin City University";"Ireland";44.19;2015
+"University of South Alabama";"USA";44.19;2015
+"Sofia University";"Bulgaria";44.19;2015
+"Ocean University of China";"China";44.19;2015
+"King Fahd University of Petroleum and Minerals";"Saudi Arabia";44.19;2015
+"University of Veterinary Medicine Vienna";"Austria";44.19;2015
+"University of Alcalá";"Spain";44.18;2015
+"Hunter College";"USA";44.18;2015
+"All India Institute of Medical Sciences, New Delhi";"India";44.18;2015
+"Gazi University";"Turkey";44.18;2015
+"National University of Ireland, Maynooth";"Ireland";44.18;2015
+"Tehran University of Medical Sciences";"Iran";44.18;2015
+"University of the Ryukyus";"Japan";44.18;2015
+"Florida Atlantic University";"USA";44.17;2015
+"University of Siegen";"Germany";44.17;2015
+"Huazhong Agricultural University";"China";44.17;2015
+"University of Angers";"France";44.17;2015
+"University of Seoul";"South Korea";44.17;2015
+"Brock University";"Canada";44.17;2015
+"Fukuoka University";"Japan";44.17;2015
+"Hamamatsu University School of Medicine";"Japan";44.17;2015
+"Nanjing Normal University";"China";44.17;2015
+"National Chung Cheng University";"Taiwan";44.17;2015
+"Nanjing Agricultural University";"China";44.16;2015
+"University of the Republic (Uruguay)";"Uruguay";44.16;2015
+"Sejong University";"South Korea";44.16;2015
+"Makerere University";"Uganda";44.16;2015
+"University of New Brunswick";"Canada";44.16;2015
+"Northeastern University (China)";"China";44.16;2015
+"University of Extremadura";"Spain";44.16;2015
+"RMIT University";"Australia";44.16;2015
+"Royal Veterinary College, University of London";"United Kingdom";44.16;2015
+"Chung Yuan Christian University";"Taiwan";44.16;2015
+"University of Osnabrück";"Germany";44.15;2015
+"Northwest University (China)";"China";44.15;2015
+"Chosun University";"South Korea";44.15;2015
+"University of Orléans";"France";44.15;2015
+"Jean Monnet University";"France";44.15;2015
+"École centrale de Lyon";"France";44.15;2015
+"University of Western Sydney";"Australia";44.15;2015
+"Hefei University of Technology";"China";44.15;2015
+"University of Massachusetts Lowell";"USA";44.15;2015
+"Manchester Metropolitan University";"United Kingdom";44.14;2015
+"Nanjing Medical University";"China";44.14;2015
+"Kyoto Institute of Technology";"Japan";44.14;2015
+"Shanghai Normal University";"China";44.14;2015
+"Southwest University";"China";44.14;2015
+"Adam Mickiewicz University in Poznań";"Poland";44.14;2015
+"University of Calcutta";"India";44.14;2015
+"University of Pécs";"Hungary";44.14;2015
+"Queens College, City University of New York";"USA";44.14;2015
+"University of Lleida";"Spain";44.14;2015
+"Nanjing University of Aeronautics and Astronautics";"China";44.14;2015
+"University of Western Brittany";"France";44.13;2015
+"University of North Carolina at Greensboro";"USA";44.13;2015
+"Pukyong National University";"South Korea";44.13;2015
+"Fourth Military Medical University";"China";44.13;2015
+"University of Fukui";"Japan";44.13;2015
+"University of Southern Mississippi";"USA";44.13;2015
+"University of Mannheim";"Germany";44.13;2015
+"Shimane University";"Japan";44.13;2015
+"China University of Geosciences (Wuhan)";"China";44.13;2015
+"University of Thessaly";"Greece";44.13;2015
+"Oakland University";"USA";44.13;2015
+"Wilfrid Laurier University";"Canada";44.13;2015
+"Teikyo University";"Japan";44.12;2015
+"Saitama University";"Japan";44.12;2015
+"Trent University";"Canada";44.12;2015
+"Nicolaus Copernicus University in Toruń";"Poland";44.12;2015
+"Tarbiat Modares University";"Iran";44.12;2015
+"University of North Dakota";"USA";44.12;2015
+"Isfahan University of Technology";"Iran";44.12;2015
+"Fluminense Federal University";"Brazil";44.12;2015
+"National Taiwan University of Science and Technology";"Taiwan";44.12;2015
+"University of Lethbridge";"Canada";44.12;2015
+"Federal University of Santa Catarina";"Brazil";44.12;2015
+"University of Camerino";"Italy";44.12;2015
+"University of Brasília";"Brazil";44.12;2015
+"University of Wrocław";"Poland";44.12;2015
+"University of Basilicata";"Italy";44.12;2015
+"Jadavpur University";"India";44.11;2015
+"South China Normal University";"China";44.11;2015
+"University of Hyderabad";"India";44.11;2015
+"Ritsumeikan University";"Japan";44.1;2015
+"Carlos III University of Madrid";"Spain";44.1;2015
+"University of Cyprus";"Cyprus";44.1;2015
+"University of Texas at El Paso";"USA";44.1;2015
+"University of Cádiz";"Spain";44.1;2015
+"Shahid Beheshti University of Medical Sciences";"Iran";44.1;2015
+"National Taiwan Normal University";"Taiwan";44.1;2015
+"National University of Córdoba";"Argentina";44.1;2015
+"Federal University of Paraná";"Brazil";44.1;2015
+"University of Jaén";"Spain";44.09;2015
+"University of California, Merced";"USA";44.09;2015
+"University of Waikato";"New Zealand";44.09;2015
+"University of Central Lancashire";"United Kingdom";44.09;2015
+"Federal University of Pernambuco";"Brazil";44.09;2015
+"University of Almería";"Spain";44.09;2015
+"Federal University of São Carlos";"Brazil";44.09;2015
+"Charles Darwin University";"Australia";44.09;2015
+"Yangzhou University";"China";44.09;2015
+"Wrocław University of Technology";"Poland";44.09;2015
+"Hirosaki University";"Japan";44.08;2015
+"National Taiwan Ocean University";"Taiwan";44.08;2015
+"Jiangsu University";"China";44.08;2015
+"Northwestern Polytechnical University";"China";44.08;2015
+"Xiangtan University";"China";44.08;2015
+"United Arab Emirates University";"United Arab Emirates";44.08;2015
+"Gachon University";"South Korea";44.08;2015
+"Hallym University";"South Korea";44.08;2015
+"Harbin Engineering University";"China";44.07;2015
+"Dokuz Eylül University";"Turkey";44.07;2015
+"Jinan University";"China";44.07;2015
+"Shiraz University";"Iran";44.07;2015
+"Third Military Medical University";"China";44.07;2015
+"Amirkabir University of Technology";"Iran";44.07;2015
+"Public University of Navarre";"Spain";44.07;2015
+"Federico Santa María Technical University";"Chile";44.07;2015
+"Federal University of ABC";"Brazil";44.07;2015
+"University of Puerto Rico at Mayagüez";"Puerto Rico";44.06;2015
+"Southern Medical University";"China";44.06;2015
+"University of Silesia";"Poland";44.06;2015
+"Ain Shams University";"Egypt";44.06;2015
+"University of Valenciennes and Hainaut-Cambresis";"France";44.06;2015
+"Chung Shan Medical University";"Taiwan";44.06;2015
+"National University of Colombia";"Colombia";44.06;2015
+"South China Agricultural University";"China";44.06;2015
+"Ibaraki University";"Japan";44.06;2015
+"Fu Jen Catholic University";"Taiwan";44.06;2015
+"Hunan Normal University";"China";44.06;2015
+"Ulsan National Institute of Science and Technology";"South Korea";44.06;2015
+"Federal University of Santa Maria";"Brazil";44.05;2015
+"Shenzhen University";"China";44.05;2015
+"Tianjin Medical University";"China";44.05;2015
+"Beijing University of Technology";"China";44.05;2015
+"University of Reims Champagne-Ardenne";"France";44.05;2015
+"Yuan Ze University";"Taiwan";44.05;2015
+"University of Chemistry and Technology, Prague";"Czech Republic";44.05;2015
+"University of Limerick";"Ireland";44.05;2015
+"China Medical University (PRC)";"China";44.04;2015
+"Feng Chia University";"Taiwan";44.04;2015
+"Zhejiang University of Technology";"China";44.04;2015
+"Novosibirsk State University";"Russia";44.04;2015
+"University of Bucharest";"Romania";44.04;2015
+"Babeș-Bolyai University";"Romania";44.04;2015
+"Mansoura University";"Egypt";44.04;2015
+"University of Pau and Pays de l'Adour";"France";44.04;2015
+"Henan Normal University";"China";44.04;2015
+"Xidian University";"China";44.03;2015
+"Federal University of Bahia";"Brazil";44.03;2015
+"Southwest Jiaotong University";"China";44.03;2015
+"Ryerson University";"Canada";44.03;2015
+"King Abdulaziz University";"Saudi Arabia";44.03;2015
+"University of the Algarve";"Portugal";44.03;2015
+"Alexandria University";"Egypt";44.03;2015
+"Federal University of Ceará";"Brazil";44.03;2015
+"University of A Coruña";"Spain";44.02;2015
+"China Pharmaceutical University";"China";44.02;2015

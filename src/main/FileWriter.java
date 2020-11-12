@@ -18,8 +18,7 @@ class FileWriter{
 	
 	public boolean initWriter(){
 		try{
-			FileOutputStream outputStream = new FileOutputStream(path);
-			
+			FileOutputStream outputStream = new FileOutputStream(path);		
 			outputWriter = new PrintWriter(outputStream);
 			return true;
 		}
@@ -29,13 +28,11 @@ class FileWriter{
 	}
 	
 	public void writeFile(ArrayList<UniversityScore> array){
-		for(int i=0; i<array.size(); i++){
+		for(int i=0; i<array.size(); i++)
 			outputWriter.println(array.get(i));
-		}
 	}
 	
 	public void closeWriter(){
 		outputWriter.close();
 	}
-	
 }

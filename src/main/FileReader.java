@@ -28,13 +28,13 @@ class FileReader{
 	}
 	
 	public ArrayList<String> readFile(){
-		ArrayList<String> l = new ArrayList<String>();
+		ArrayList<String> arlist = new ArrayList<String>();
 		String line = inputReader.nextLine();
 		while(inputReader.hasNextLine()){
 			line = inputReader.nextLine();
-			l.add(line);
+			arlist.add(line);
 		}
-		return l;
+		return arlist;
 	}
 	
 	public void closeReader(){

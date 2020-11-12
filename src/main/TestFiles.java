@@ -15,15 +15,13 @@ public class TestFiles {
 				writer.writeFile(editor.getScoresOfYear(2015));
 				writer.closeWriter();
 			}
-			else{
+			else
 				System.out.println("Error creating file");
-			}
 			System.out.println("Average university score of year 2015: "+editor.getAverageOfYear(2015));
 			System.out.println("Min university score of year 2015: "+editor.getMinOfYear(2015));
 			System.out.println("Max university score of year 2015: "+editor.getMaxOfYear(2015));
 		}
-		else{
+		else
 			System.out.println("Error opening file");
-		}
 	}
 }

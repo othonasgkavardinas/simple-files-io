@@ -8,21 +8,19 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
-class FileReader{
+class FileReader extends FileIO{
 	
-	private String path;
 	private Scanner inputReader = null;
 	
 	public FileReader(String path){
-		this.path = path;
+		super(path);
 	}
 	
-	public boolean initReader(){
+	public boolean init(){
 		try{
-			inputReader = new Scanner(new FileInputStream(path));
+			inputReader = new Scanner(new FileInputStream(super.getPath()));
 			return true;
-		}
-		catch(FileNotFoundException e){
+		} catch(FileNotFoundException e){
 			return false;
 		}
 	}
@@ -37,7 +35,8 @@ class FileReader{
 		return arlist;
 	}
 	
-	public void closeReader(){
+	public void close(){
 		inputReader.close();
 	}
+
 }

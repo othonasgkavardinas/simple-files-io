@@ -8,7 +8,7 @@ import java.util.HashMap;
 
 class FileEditor{
 	
-	private HashMap<Integer,ArrayList<UniversityScore>> scores;
+	private HashMap<Integer, ArrayList<UniversityScore>> scores;
 	private ArrayList<String> lines;
 	
 	public FileEditor(ArrayList<String> lines){
@@ -16,7 +16,7 @@ class FileEditor{
 	}
 	
 	public void fillHashMap(){
-		scores = new HashMap<Integer,ArrayList<UniversityScore>>();
+		scores = new HashMap<Integer, ArrayList<UniversityScore>>();
 		int noOfDifferentScores = 4;
 		int[] years = { 2012, 2013, 2014, 2015 };
 		
@@ -34,8 +34,8 @@ class FileEditor{
 			tempYear = Integer.valueOf(tempString[3]);
 			for(int j=0; j<noOfDifferentScores; j++)
 				if(tempYear==years[j]) {
-					scoresList.get(i).add(new UniversityScore
-						(tempString[0],tempString[1],Double.valueOf(tempString[2]),Integer.valueOf(tempString[3])));
+					scoresList.get(i).add(new UniversityScore(
+							tempString[0], tempString[1], Double.valueOf(tempString[2]), Integer.valueOf(tempString[3])));
 					break;
 				}
 		}
@@ -53,19 +53,26 @@ class FileEditor{
 	}
 	
 	public double getMinOfYear(int y){
-		double min = scores.get(y).get(0).getScore();
-		for(int i=1; i<scores.get(y).size(); i++)
-			if (min>scores.get(y).get(i).getScore())
-				min = scores.get(y).get(i).getScore();
-		return min;
+		Consumer consumer = (v1, v2) -> v1 > v2;
+		return getValue(y, consumer);
 	}
 	
 	public double getMaxOfYear(int y){
-		double max = scores.get(y).get(0).getScore();
+		Consumer consumer = (v1, v2) -> v1 < v2;
+		return getValue(y, consumer);
+	}
+	
+	public double getValue(int y, Consumer consumer) {
+		double retv = scores.get(y).get(0).getScore();
 		for(int i=1; i<scores.get(y).size(); i++)
-			if (max<scores.get(y).get(i).getScore())
-				max = scores.get(y).get(i).getScore();
-		return max;
+			if (consumer.useMethod(retv, scores.get(y).get(i).getScore()))
+				retv = scores.get(y).get(i).getScore();
+		return retv;
+	}
+	
+	
+	private interface Consumer {
+		boolean useMethod(double v1, double r2);
 	}
 	
 }

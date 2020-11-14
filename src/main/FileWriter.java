@@ -8,21 +8,19 @@ import java.io.PrintWriter;
 import java.io.FileOutputStream;
 import java.io.FileNotFoundException;
 
-class FileWriter{
-	private String path;
+class FileWriter extends FileIO{
 	private PrintWriter outputWriter;
 	
 	public FileWriter(String path){
-		this.path = path;
+		super(path);
 	}
 	
-	public boolean initWriter(){
+	public boolean init(){
 		try{
-			FileOutputStream outputStream = new FileOutputStream(path);		
+			FileOutputStream outputStream = new FileOutputStream(super.getPath());		
 			outputWriter = new PrintWriter(outputStream);
 			return true;
-		}
-		catch(FileNotFoundException e){
+		} catch(FileNotFoundException e){
 			return false;
 		}
 	}
@@ -32,7 +30,7 @@ class FileWriter{
 			outputWriter.println(array.get(i));
 	}
 	
-	public void closeWriter(){
+	public void close(){
 		outputWriter.close();
 	}
 }

@@ -1,4 +1,4 @@
-# files-editor-assignment
+# simple-files-io
 
 ## Επεξεργασία αρχείων
 Τεχνικές Αντικειμενοστραφούς Προγραμματισμού (Assignment 3)  
@@ -13,3 +13,6 @@ Import Java project to Eclipse.
 ### Tested on
 Eclipse 2020-03  
 JavaSE-13 (jdk-13.0.2)
+
+### Dependencies
+Lombok

@@ -12,7 +12,7 @@ Import Java project to Eclipse.
 
 ### Tested on
 Eclipse 2020-03  
-JavaSE-13 (jdk-13.0.2)
+JavaSE-11 (openjdk 11.0.9.1)
 
 ### Dependencies
-Lombok
+Lombok 1.18.16

@@ -8,7 +8,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
-class FileReader extends FileIO{
+public class FileReader extends FileIO{
 	
 	private Scanner inputReader = null;
 	

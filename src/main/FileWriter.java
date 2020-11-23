@@ -8,7 +8,7 @@ import java.io.PrintWriter;
 import java.io.FileOutputStream;
 import java.io.FileNotFoundException;
 
-class FileWriter extends FileIO{
+public class FileWriter extends FileIO{
 	private PrintWriter outputWriter;
 	
 	public FileWriter(String path){

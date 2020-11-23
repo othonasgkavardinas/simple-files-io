@@ -6,7 +6,7 @@ package main;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-class FileEditor{
+public class FileEditor{
 	
 	private HashMap<Integer, ArrayList<UniversityScore>> scores;
 	private ArrayList<String> lines;
@@ -17,12 +17,11 @@ class FileEditor{
 	
 	public void fillHashMap(){
 		scores = new HashMap<Integer, ArrayList<UniversityScore>>();
-		int noOfDifferentScores = 4;
 		int[] years = { 2012, 2013, 2014, 2015 };
 		
 		ArrayList<ArrayList<UniversityScore>> scoresList = new ArrayList<ArrayList<UniversityScore>>();
 		
-		for(int i=0; i<noOfDifferentScores; i++) {
+		for(int i=0; i<years.length; i++) {
 			scoresList.add(new ArrayList<UniversityScore>());
 			scores.put(years[i], scoresList.get(i));
 		}
@@ -32,9 +31,9 @@ class FileEditor{
 		for(int i=0; i<lines.size(); i++){
 			tempString = (lines.get(i)).split(";");
 			tempYear = Integer.valueOf(tempString[3]);
-			for(int j=0; j<noOfDifferentScores; j++)
+			for(int j=0; j<years.length; j++)
 				if(tempYear==years[j]) {
-					scoresList.get(i).add(new UniversityScore(
+					scoresList.get(j).add(new UniversityScore(
 							tempString[0], tempString[1], Double.valueOf(tempString[2]), Integer.valueOf(tempString[3])));
 					break;
 				}
@@ -69,7 +68,6 @@ class FileEditor{
 				retv = scores.get(y).get(i).getScore();
 		return retv;
 	}
-	
 	
 	private interface Consumer {
 		boolean useMethod(double v1, double r2);

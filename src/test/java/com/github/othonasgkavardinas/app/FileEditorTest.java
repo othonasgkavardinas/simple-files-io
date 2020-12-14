@@ -1,17 +1,14 @@
-package test;
+package com.github.othonasgkavardinas.app;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.fail;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-import main.FileEditor;
-import main.FileReader;
-import main.FileWriter;
-
-class FileEditorTest {
+public class FileEditorTest {
 
 	@Test
-	void fillHashMapTest() {
+	public void fillHashMapTest() {
 		FileReader reader = new FileReader("files/universities.txt");
 		if(reader.init()){
 			FileEditor editor = new FileEditor(reader.readFile());
@@ -25,9 +22,9 @@ class FileEditorTest {
 				System.out.println("Error creating file");
 				fail();
 			}
-			assertEquals(editor.getAverageOfYear(2015), 46.863850000000006);
-			assertEquals(editor.getMinOfYear(2015), 44.02);
-			assertEquals(editor.getMaxOfYear(2015), 100.0);
+			assertEquals(editor.getAverageOfYear(2015), 46, 1);
+			assertEquals(editor.getMinOfYear(2015), 44, 1);
+			assertEquals(editor.getMaxOfYear(2015), 100, 1);
 		} else {
 			System.out.println("Error opening file");
 			fail();
